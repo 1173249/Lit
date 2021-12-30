@@ -51,7 +51,8 @@ bash -x tooltest.sh run the test automatically
 The experiments were conducted at Emulator for open-source games and Google Pixel XL for close-source games.
 ![image](https://user-images.githubusercontent.com/92325589/147787729-d671026d-838f-43d5-bb7a-f24f598af485.png)
 
-![image](https://user-images.githubusercontent.com/92325589/147788916-e0314a92-0adf-4066-9574-7b4979abe860.png)
+![image](https://user-images.githubusercontent.com/92325589/147788991-7de18a55-a8d9-437a-a41f-d444fa214155.png)
+
 ![image](https://user-images.githubusercontent.com/92325589/147788926-ed5807c1-611f-49e3-8fcd-a6df2547b00f.png)
 
 
