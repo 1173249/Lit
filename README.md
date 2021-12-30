@@ -39,6 +39,7 @@ There are two ways to run the tool
 ### step by step
 
 ![image](https://user-images.githubusercontent.com/92325589/147788419-6771162f-ab24-4692-9673-c4783808c625.png)
+![image](https://user-images.githubusercontent.com/92325589/147788578-736db8d6-9da0-4339-b4c6-1b27729faa01.png)
 
 
 ### tooltest script
