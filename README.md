@@ -36,7 +36,7 @@ there are already 9 games built in tools as seen in the config file.
 upload function icon , play icon and target icons if needed into the image folder.
 
 There are two ways to run the tool
-* 1. step by step
+* 1.step by step
 python recorder.py : following the instruction to play the game as a real user, kill the script if you think the training is long enough
 python analyzer.py
 python module_gen.py
