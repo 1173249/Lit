@@ -51,9 +51,17 @@ bash -x tooltest.sh run the test automatically
 The experiments were conducted at Emulator for open-source games and Google Pixel XL for close-source games.
 ![image](https://user-images.githubusercontent.com/92325589/147787729-d671026d-838f-43d5-bb7a-f24f598af485.png)
 
+we use code coverage to evaluate the performance. And include game score and game level.  
+Given a game G, the first author manually played G for eight minutes in LIT ’s demo mode, and then switched to
+LIT’s test mode to automatically play G for one hour.
+
 ![image](https://user-images.githubusercontent.com/92325589/147788991-7de18a55-a8d9-437a-a41f-d444fa214155.png)
 
-![image](https://user-images.githubusercontent.com/92325589/147788926-ed5807c1-611f-49e3-8fcd-a6df2547b00f.png)
+LIT consistently outperform user demos by acquiring higher scores and passing more levels.
+LIT effectively inferred tactics from demos, and applied those tactics in reaction to randomly generated scenes
+
+![image](https://user-images.githubusercontent.com/92325589/147789023-86b13170-ab23-47d6-8505-f61998c7c03c.png)
+
 
 
 
