@@ -48,7 +48,6 @@ bash -x tooltest.sh run the test automatically
 
 ## OUTPUT 
 * coverage - coverage files are stored here
-* crash -- Crash reports
 
 ## Experiment
 The experiments were conducted at Emulator for open-source games and Google Pixel XL for close-source games.
