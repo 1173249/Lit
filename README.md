@@ -3,6 +3,9 @@ LIT: A lightweight approach to generalize playtesting tactics from manual testin
 
 This is a research prototype of  the LIT approach for automatic game testing.
 
+## Structure
+![structure](https://user-images.githubusercontent.com/92325589/147783626-74d2467d-99ee-4583-affd-e74e9c5615fc.png)
+
 ## Installation
 Simply clone the source code from this repository and apply the follwing enviroment configuration
 
