@@ -27,7 +27,7 @@ Simply clone the source code from this repository and apply the follwing envirom
 * codecs
 
 
-## USAGE
+## Usage
 ### conf 
 edit the config.ini, specify SDK PATH, device name AND mobile games you want to test.
 there are already 9 games built in tools as seen in the config file.
@@ -44,7 +44,7 @@ There are two ways to run the tool
 ### tooltest script
 bash -x tooltest.sh run the test automatically
 
-## OUTPUT 
+## Output 
 * coverage - coverage files are stored here
 
 ## Experiment
@@ -57,11 +57,12 @@ LIT’s test mode to automatically play G for one hour.
 
 ![image](https://user-images.githubusercontent.com/92325589/147788991-7de18a55-a8d9-437a-a41f-d444fa214155.png)
 
-LIT consistently outperform user demos by acquiring higher scores and passing more levels.
-LIT effectively inferred tactics from demos, and applied those tactics in reaction to randomly generated scenes
+Based on eight-minute user demos,LIT effectively earned game scores, passed difficulty levels, and executed lots of code within one-hour playtest.
 
 ![image](https://user-images.githubusercontent.com/92325589/147789023-86b13170-ab23-47d6-8505-f61998c7c03c.png)
 
+LIT outperformed Monkey and Sapienz by  always  acquiring  higher  scores  and  passing  more  levels.
+RLT  worked  worse  than  LIT in  most  scenarios with same training time. 
 
 
 
