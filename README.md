@@ -15,14 +15,26 @@ Simply clone the source code from this repository and apply the follwing envirom
 
 
 ## Enviroment Configration
-* PYTHON
+* PYTHON > 3.6.9
 * ANDROID SDK
-* LINUX
+* Ubuntu 
 * EMULATOR OR DEVICES
+* ADB
+* OpenCV
+* Configparser
+* Numpy
+* Scipy
+* codecs
+The experiments are conducted at Emulator and Google Pixel XL 
+![image](https://user-images.githubusercontent.com/92325589/147787729-d671026d-838f-43d5-bb7a-f24f598af485.png)
 
-##USAGE
+## USAGE
 * conf 
-edit the config.ini, specify SDK PATH, AND testing object you want to test
+edit the config.ini, specify SDK PATH, device name AND testing object you want to test.
+there are already 9 games built in tools as seen in the config file.
+
+
+
 * image
 upload function icon , play icon and target icons if need into the image folder
 * bin
