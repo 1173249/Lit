@@ -1,0 +1,79 @@
+{
+    "actions": [
+        {
+            "duration": 0.593809999525547,
+            "endX": 1001,
+            "endY": 1543,
+            "startX": 1024,
+            "startY": 1444,
+            "timestamp": "1636505453.4796534",
+            "type": "swipe"
+        },
+        {
+            "duration": 0.4572780001908541,
+            "endX": 283,
+            "endY": 307,
+            "startX": 264,
+            "startY": 463,
+            "timestamp": "1636505394.8808722",
+            "type": "swipe"
+        },
+        {
+            "duration": 0.4210669994354248,
+            "endX": 707,
+            "endY": 505,
+            "startX": 703,
+            "startY": 315,
+            "timestamp": "1636505409.5135896",
+            "type": "swipe"
+        },
+        {
+            "duration": 0.6906909998506308,
+            "endX": 272,
+            "endY": 1478,
+            "startX": 421,
+            "startY": 1444,
+            "timestamp": "1636505438.8820207",
+            "type": "swipe"
+        },
+        {
+            "duration": 0.41217399947345257,
+            "endX": 70,
+            "endY": 1127,
+            "startX": 249,
+            "startY": 1116,
+            "timestamp": "1636505365.782776",
+            "type": "swipe"
+        },
+        {
+            "duration": 0.27859700098633766,
+            "endX": 1192,
+            "endY": 994,
+            "startX": 1192,
+            "startY": 826,
+            "timestamp": "1636505482.8376145",
+            "type": "swipe"
+        },
+        {
+            "duration": 0.5745800007134676,
+            "endX": 833,
+            "endY": 666,
+            "startX": 1009,
+            "startY": 647,
+            "timestamp": "1636505380.3148332",
+            "type": "swipe"
+        },
+        {
+            "duration": 0.3770610000938177,
+            "endX": 291,
+            "endY": 910,
+            "startX": 276,
+            "startY": 1127,
+            "timestamp": "1636505468.1464925",
+            "type": "swipe"
+        }
+    ],
+    "sequence": [
+        "swipe"
+    ]
+}

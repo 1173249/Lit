@@ -1,0 +1,65 @@
+{
+    "case": [
+        {
+            "context": [
+                [
+                    "2"
+                ], 
+                [
+                    "2"
+                ]
+            ], 
+            "contextX": 0, 
+            "contextY": 0, 
+            "duration": 0.10066100000403821, 
+            "timestamp": "1583189773.12", 
+            "type": "tap"
+        }, 
+        {
+            "context": [
+                [
+                    "2"
+                ], 
+                [
+                    "2"
+                ]
+            ], 
+            "contextX": 0, 
+            "contextY": 0, 
+            "duration": 0.07587199995759875, 
+            "timestamp": "1583189773.12", 
+            "type": "tap"
+        }, 
+        {
+            "context": [
+                [
+                    "2", 
+                    "2"
+                ]
+            ], 
+            "contextX": 0, 
+            "contextY": 0, 
+            "duration": 0.10066100000403821, 
+            "timestamp": "1583189773.12", 
+            "type": "tap"
+        }, 
+        {
+            "context": [
+                [
+                    "2", 
+                    "2"
+                ]
+            ], 
+            "contextX": 0, 
+            "contextY": 0, 
+            "duration": 0.07587199995759875, 
+            "timestamp": "1583189773.12", 
+            "type": "tap"
+        }
+    ], 
+    "isWithContext": "Context", 
+    "sequence": [
+        "tap", 
+        "tap"
+    ]
+}

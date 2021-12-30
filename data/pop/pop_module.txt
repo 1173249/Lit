@@ -1,0 +1,65 @@
+{
+    "isWithContext": "Context", 
+    "paradigm": [
+        {
+            "context": [
+                [
+                    "1"
+                ], 
+                [
+                    "1"
+                ]
+            ], 
+            "contextX": 0, 
+            "contextY": 0, 
+            "duration": 0.10066100000403821, 
+            "timestamp": "1583189773.12", 
+            "type": "tap"
+        }, 
+        {
+            "context": [
+                [
+                    "1"
+                ], 
+                [
+                    "1"
+                ]
+            ], 
+            "contextX": 0, 
+            "contextY": 0, 
+            "duration": 0.07587199995759875, 
+            "timestamp": "1583189773.12", 
+            "type": "tap"
+        }, 
+	{
+            "context": [
+                [
+                    "1",
+		    "1"
+                ]
+            ], 
+            "contextX": 0, 
+            "contextY": 0, 
+            "duration": 0.10066100000403821, 
+            "timestamp": "1583189773.12", 
+            "type": "tap"
+        }, 
+        {
+            "context": [
+                [
+                    "1",
+		    "1"
+                ]
+            ], 
+            "contextX": 0, 
+            "contextY": 0, 
+            "duration": 0.07587199995759875, 
+            "timestamp": "1583189773.12", 
+            "type": "tap"
+        }
+    ], 
+    "sequence": [
+        "tap", 
+        "tap"
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "actions": [
+        {
+            "duration": 2.995862999930978,
+            "endX": 82,
+            "endY": 1289,
+            "startX": 250,
+            "startY": 1201,
+            "timestamp": "1634684289.42626",
+            "type": "swipe"
+        },
+        {
+            "duration": 3.3303190004080534,
+            "endX": 40,
+            "endY": 1289,
+            "startX": 227,
+            "startY": 1179,
+            "timestamp": "1634684275.2696462",
+            "type": "swipe"
+        },
+        {
+            "duration": 2.914196999743581,
+            "endX": 25,
+            "endY": 1297,
+            "startX": 238,
+            "startY": 1190,
+            "timestamp": "1634684363.4271302",
+            "type": "swipe"
+        },
+        {
+            "duration": 2.7497899997979403,
+            "endX": 63,
+            "endY": 1308,
+            "startX": 223,
+            "startY": 1190,
+            "timestamp": "1634684304.3636892",
+            "type": "swipe"
+        },
+        {
+            "duration": 2.3070479994639754,
+            "endX": 86,
+            "endY": 1232,
+            "startX": 223,
+            "startY": 1209,
+            "timestamp": "1634684261.0315022",
+            "type": "swipe"
+        },
+        {
+            "duration": 3.279670000076294,
+            "endX": 59,
+            "endY": 1224,
+            "startX": 246,
+            "startY": 1190,
+            "timestamp": "1634684334.2248003",
+            "type": "swipe"
+        },
+        {
+            "duration": 3.7422970002517104,
+            "endX": 0,
+            "endY": 1320,
+            "startX": 223,
+            "startY": 1198,
+            "timestamp": "1634684319.1862667",
+            "type": "swipe"
+        },
+        {
+            "duration": 3.6924529997631907,
+            "endX": 5,
+            "endY": 1247,
+            "startX": 273,
+            "startY": 1213,
+            "timestamp": "1634684349.3187003",
+            "type": "swipe"
+        }
+    ],
+    "sequence": [
+        "swipe"
+    ]
+}

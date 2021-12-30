@@ -1,0 +1,43 @@
+{
+    "actions": [
+        {
+            "duration": 0.47095099999569356, 
+            "endX": 85, 
+            "endY": 467, 
+            "startX": 108, 
+            "startY": 330, 
+            "timestamp": "1581449161.64", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.49500400002580136, 
+            "endX": 409, 
+            "endY": 784, 
+            "startX": 573, 
+            "startY": 780, 
+            "timestamp": "1581449188.62", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.5511489999480546, 
+            "endX": 1012, 
+            "endY": 1116, 
+            "startX": 1009, 
+            "startY": 1276, 
+            "timestamp": "1581449179.63", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.4794089999049902, 
+            "endX": 581, 
+            "endY": 1550, 
+            "startX": 573, 
+            "startY": 1440, 
+            "timestamp": "1581449170.65", 
+            "type": "swipe"
+        }
+    ], 
+    "sequence": [
+        "swipe"
+    ]
+}

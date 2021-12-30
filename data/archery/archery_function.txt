@@ -1,0 +1,21 @@
+{
+    "actions": [
+        {
+            "duration": 0.0675849998369813,
+            "startX": 2104,
+            "startY": 1198,
+            "timestamp": "1634693301.8204117",
+            "type": "tap"
+        },
+        {
+            "duration": 0.06670500058680773,
+            "startX": 1959,
+            "startY": 1148,
+            "timestamp": "1634693609.1387637",
+            "type": "tap"
+        }
+    ],
+    "sequence": [
+        "tap"
+    ]
+}

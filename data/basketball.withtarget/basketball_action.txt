@@ -1,0 +1,58 @@
+{
+    "actions": [
+        {
+            "duration": 0.26506599999265745, 
+            "endX": 493, 
+            "endY": 1645, 
+            "startX": 422, 
+            "startY": 2040, 
+            "timestamp": "1580432186.47", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.2131070000177715, 
+            "endX": 837, 
+            "endY": 1639, 
+            "startX": 896, 
+            "startY": 2070, 
+            "timestamp": "1580432194.87", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.21266499999910593, 
+            "endX": 584, 
+            "endY": 1662, 
+            "startX": 456, 
+            "startY": 2054, 
+            "timestamp": "1580432211.92", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.32241499997326173, 
+            "endX": 672, 
+            "endY": 1803, 
+            "startX": 654, 
+            "startY": 2055, 
+            "timestamp": "1580432169.44", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.21267799998167902, 
+            "endX": 1014, 
+            "endY": 1647, 
+            "startX": 1090, 
+            "startY": 2070, 
+            "timestamp": "1580432203.42", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.27215300002717413, 
+            "endX": 479, 
+            "endY": 1767, 
+            "startX": 420, 
+            "startY": 2063, 
+            "timestamp": "1580432177.83", 
+            "type": "swipe"
+        }
+    ]
+}

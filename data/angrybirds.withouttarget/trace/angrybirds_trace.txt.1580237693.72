@@ -1,0 +1,19 @@
+add device 1: /dev/input/event8
+  name:     "uinput-fpc"
+add device 2: /dev/input/event7
+  name:     "uinput-folio"
+add device 3: /dev/input/event6
+  name:     "msm8996-tasha-marlin-snd-card Button Jack"
+add device 4: /dev/input/event5
+  name:     "msm8996-tasha-marlin-snd-card Headset Jack"
+add device 5: /dev/input/event1
+  name:     "HDMI CEC User or Deck Control"
+could not get driver version for /dev/input/mice, Not a typewriter
+add device 6: /dev/input/event2
+  name:     "synaptics_dsxv26"
+add device 7: /dev/input/event4
+  name:     "gpio-keys"
+add device 8: /dev/input/event3
+  name:     "STM VL53L0 proximity sensor"
+add device 9: /dev/input/event0
+  name:     "qpnp_pon"

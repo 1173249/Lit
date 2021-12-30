@@ -1,0 +1,35 @@
+{
+    "case": [
+	{
+	    "context": [
+                [
+                    "2",
+                    "2"
+                ]
+            ],
+            "contextX": 0,
+            "contextY": 0,
+            "duration": 0.09533999999985099,
+            "timestamp": "1581984741.21",
+            "type": "tap"
+        },
+        {
+            "context": [
+                [
+                    "2",
+                    "2"
+                ]
+            ],
+            "contextX": 1,
+            "contextY": 0,
+            "duration": 0.11149200005456805,
+            "timestamp": "1581984741.21",
+            "type": "tap"
+        }
+    ], 
+    "isWithContext": "Context", 
+    "sequence": [
+        "tap", 
+        "tap"
+    ]
+}

@@ -1,0 +1,229 @@
+{
+    "actions": [
+        {
+            "duration": 2.2554739999977755, 
+            "endX": 112, 
+            "endY": 1041, 
+            "startX": 627, 
+            "startY": 805, 
+            "timestamp": "1580237274.64", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 2.2242560000013327, 
+            "endX": 320, 
+            "endY": 953, 
+            "startX": 753, 
+            "startY": 771, 
+            "timestamp": "1580237469.14", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 1.8354229999968084, 
+            "endX": 36, 
+            "endY": 914, 
+            "startX": 596, 
+            "startY": 695, 
+            "timestamp": "1580237370.29", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 2.2242560000013327, 
+            "endX": 320, 
+            "endY": 953, 
+            "startX": 753, 
+            "startY": 771, 
+            "timestamp": "1580237542.79", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 2.2242560000013327, 
+            "endX": 320, 
+            "endY": 953, 
+            "startX": 753, 
+            "startY": 771, 
+            "timestamp": "1580237528.04", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 2.3524860000034096, 
+            "endX": 26, 
+            "endY": 852, 
+            "startX": 549, 
+            "startY": 684, 
+            "timestamp": "1580237441.53", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 1.8354229999968084, 
+            "endX": 36, 
+            "endY": 914, 
+            "startX": 596, 
+            "startY": 695, 
+            "timestamp": "1580237390.19", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 2.3524860000034096, 
+            "endX": 26, 
+            "endY": 852, 
+            "startX": 549, 
+            "startY": 684, 
+            "timestamp": "1580237405.17", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 1.8354229999968084, 
+            "endX": 36, 
+            "endY": 914, 
+            "startX": 596, 
+            "startY": 695, 
+            "timestamp": "1580237307.71", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 3.222109000002092, 
+            "endX": 87, 
+            "endY": 820, 
+            "startX": 654, 
+            "startY": 713, 
+            "timestamp": "1580237642.54", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 1.8809260000052745, 
+            "endX": 55, 
+            "endY": 860, 
+            "startX": 528, 
+            "startY": 757, 
+            "timestamp": "1580237677.14", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 3.222109000002092, 
+            "endX": 87, 
+            "endY": 820, 
+            "startX": 654, 
+            "startY": 713, 
+            "timestamp": "1580237560.69", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 3.222109000002092, 
+            "endX": 87, 
+            "endY": 820, 
+            "startX": 654, 
+            "startY": 713, 
+            "timestamp": "1580237604.19", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 3.222109000002092, 
+            "endX": 87, 
+            "endY": 820, 
+            "startX": 654, 
+            "startY": 713, 
+            "timestamp": "1580237627.29", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.5821250000008149, 
+            "endX": 235, 
+            "endY": 919, 
+            "startX": 581, 
+            "startY": 814, 
+            "timestamp": "1580237247.96", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 1.8354229999968084, 
+            "endX": 36, 
+            "endY": 914, 
+            "startX": 596, 
+            "startY": 695, 
+            "timestamp": "1580237290.99", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 1.8809260000052745, 
+            "endX": 55, 
+            "endY": 860, 
+            "startX": 528, 
+            "startY": 757, 
+            "timestamp": "1580237659.76", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 3.222109000002092, 
+            "endX": 87, 
+            "endY": 820, 
+            "startX": 654, 
+            "startY": 713, 
+            "timestamp": "1580237577.99", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 2.2242560000013327, 
+            "endX": 320, 
+            "endY": 953, 
+            "startX": 753, 
+            "startY": 771, 
+            "timestamp": "1580237491.78", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 1.8354229999968084, 
+            "endX": 36, 
+            "endY": 914, 
+            "startX": 596, 
+            "startY": 695, 
+            "timestamp": "1580237333.84", 
+            "type": "swipe"
+        },
+{
+            "duration": 2.687785000016447, 
+            "endX": 0, 
+            "endY": 596, 
+            "startX": 496, 
+            "startY": 464,
+	    "timestamp": "1579801513.61",
+            "type": "swipe"
+        }, 
+        {
+            "duration": 1.526015000010375, 
+            "endX": 18, 
+            "endY": 657, 
+            "startX": 610, 
+            "startY": 535, 
+	    "timestamp": "1579801513.61",
+            "type": "swipe"
+        }, 
+        {
+            "duration": 4.831347999977879, 
+            "endX": 24, 
+            "endY": 543, 
+            "startX": 499, 
+            "startY": 461, 
+	    "timestamp": "1579801513.61",
+            "type": "swipe"
+        }, 
+        {
+            "duration": 6.121030999987852, 
+            "endX": 0, 
+            "endY": 538, 
+            "startX": 224, 
+            "startY": 453,
+	    "timestamp": "1579801513.61",
+            "type": "swipe"
+        }, 
+        {
+            "duration": 2.606028000009246, 
+            "endX": 5, 
+            "endY": 657, 
+            "startX": 499, 
+            "startY": 458,
+	    "timestamp": "1579801513.61",
+            "type": "swipe"
+        }
+    ]
+}

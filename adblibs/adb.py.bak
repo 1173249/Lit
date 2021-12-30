@@ -1,0 +1,83 @@
+#!/usr/bin/env python
+# coding=utf-8
+
+"""ADB"""
+
+adb_path='/home/adminadmin/Android/Sdk/platform-tools'
+
+import commands
+import subprocess
+import os
+import signal
+class adbKit(object):
+    def screenshots(self, gamename, serialNumber=None):
+        self.command('exec-out screencap -p > ../image/'+gamename+'/screencap.png', serialNumber)
+        if serialNumber == None:
+            return '../image/'+gamename+'/screencap.png'
+        else:
+            return '../image/'+gamename+'/screencap.png'+'.'+serialNumber
+
+    def click(self, point, serialNumber=None):
+        if (len(point) < 2):
+            return
+        return self.command('shell input tap '+str(point[0])+' '+str(point[1]), serialNumber)
+
+    def swipe(self, point, point_end, duration=1000):
+        if (len(point) < 2):
+            return
+        return self.command('shell input swipe ' + str(point[0])+' '+str(point[1])+' '+ str(point_end[0])+' '+str(point_end[1])+' '+str(duration) )
+    
+    def command(self, cmd, serialNumber=None):
+        cmdstr = adb_path+'/adb '
+        if serialNumber:
+            cmd = cmd+'.'+serialNumber
+        #print cmdstr+cmd
+        (status, output) = commands.getstatusoutput(cmdstr+cmd)
+        return [status, output]
+
+    def getevent(self, tracefile):
+        cmdstr = 'exec-out getevent -lt >> ' + tracefile
+        return self.command(cmdstr)
+
+
+    def hasdevice(self):
+        cmdstr = 'devices'
+        (status, output) = self.command(cmdstr)
+        if (len(output) < 30):
+            return False
+        else:
+            return True
+
+    def getResolution(self):
+        cmd = adb_path + '/adb shell getevent -p'
+        (status, output) = commands.getstatusoutput(cmd)
+        if status != 0:
+            print("error fail to get resolution")
+        lines = output.split('\n')
+        for line in lines:
+        #print (line)
+            if line.find("0035  : ") != -1:
+                line = line.strip()
+                columns = line.split(",")
+                minX = columns[1][5:]
+                maxX = columns[2][5:]
+
+            if line.find("0036  : ") != -1:
+                line = line.strip()
+                columns = line.split(",")
+                minY = columns[1][5:]
+                maxY = columns[2][5:]
+
+        return [minX, maxX, minY, maxY]
+
+    def getSize(self):
+         cmd = adb_path + '/adb shell wm size'
+         (status, output) = commands.getstatusoutput(cmd)
+         if status != 0:
+            print("error fail to get size")
+         output = output.strip()
+         columns = output.split(": ")
+         parts = columns[1].split("x")
+         sizeX = parts[0]
+         sizeY = parts[1]
+         return [sizeX, sizeY]

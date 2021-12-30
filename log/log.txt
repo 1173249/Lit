@@ -1,0 +1,1526 @@
+2019-10-19 18:50:20,943 - __main__ - INFO - not with Context
+2019-10-19 19:12:23,975 - __main__ - INFO - not with Context
+2019-10-19 19:12:46,295 - __main__ - INFO - not with Context
+2019-10-19 19:13:12,557 - __main__ - INFO - not with Context
+2019-10-19 19:33:15,946 - __main__ - INFO - not with Context
+2019-10-19 19:34:49,343 - __main__ - INFO - not with Context
+2019-10-19 19:35:38,281 - __main__ - INFO - not with Context
+2019-10-19 19:51:30,476 - __main__ - INFO - not with Context
+2019-10-19 19:51:41,227 - __main__ - INFO - not with Context
+2019-10-19 19:52:14,252 - __main__ - INFO - not with Context
+2019-10-19 20:00:25,541 - __main__ - INFO - not with Context
+2019-10-19 20:00:55,015 - __main__ - INFO - not with Context
+2019-10-19 20:08:06,944 - __main__ - INFO - not with Context
+2019-10-19 20:09:07,759 - __main__ - INFO - not with Context
+2019-10-19 20:09:51,903 - __main__ - INFO - not with Context
+2019-10-19 20:10:08,550 - __main__ - INFO - not with Context
+2019-10-19 20:10:31,400 - __main__ - INFO - not with Context
+2019-10-19 21:09:04,678 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-10-19 21:09:04,986 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-10-19 21:12:07,058 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-10-19 21:12:07,372 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-10-19 21:12:20,626 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-10-19 21:12:20,935 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-10-19 21:12:21,229 - __main__ - INFO - not with Context
+2019-10-19 21:13:39,250 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-10-19 21:13:39,563 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-10-19 21:13:39,858 - __main__ - INFO - not with Context
+2019-10-20 16:34:19,496 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-10-20 16:34:19,809 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-10-20 16:34:20,108 - __main__ - INFO - not with Context
+2019-10-20 16:34:44,379 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-10-20 16:34:44,689 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-10-20 16:34:44,993 - __main__ - INFO - not with Context
+2019-10-30 14:10:06,790 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-10-30 14:10:07,115 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-10-30 14:10:07,393 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-10-30 14:10:07,686 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-10-30 14:10:07,686 - __main__ - INFO - not with Context
+2019-10-30 14:10:30,906 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-10-30 14:10:31,200 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-10-30 14:10:31,477 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-10-30 14:10:31,762 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-10-30 14:10:31,762 - __main__ - INFO - not with Context
+2019-10-30 14:10:53,417 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-10-30 14:10:53,710 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-10-30 14:10:53,988 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-10-30 14:10:54,273 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-10-30 14:10:54,273 - __main__ - INFO - not with Context
+2019-10-30 14:12:22,021 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-10-30 14:12:22,314 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-10-30 14:12:22,592 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-10-30 14:12:22,875 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-10-30 14:12:22,876 - __main__ - INFO - not with Context
+2019-10-30 14:30:15,415 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-10-30 14:30:15,706 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-10-30 14:30:15,985 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-10-30 14:30:16,272 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-10-30 14:30:16,272 - __main__ - INFO - not with Context
+2019-10-30 16:10:33,913 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-10-30 16:10:34,206 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-10-30 16:10:34,482 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-10-30 16:10:34,768 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-10-30 16:10:34,768 - __main__ - INFO - not with Context
+2019-10-30 16:11:44,193 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-10-30 16:11:44,483 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-10-30 16:11:44,759 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-10-30 16:11:45,039 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-10-30 16:11:45,040 - __main__ - INFO - not with Context
+2019-11-01 13:44:23,320 - __main__ - INFO - not with Context
+2019-11-01 13:44:51,964 - __main__ - INFO - not with Context
+2019-11-01 13:45:38,647 - __main__ - INFO - not with Context
+2019-11-01 13:51:50,227 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-11-01 13:51:50,673 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-11-01 13:51:51,093 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-11-01 13:51:51,494 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-11-01 13:51:51,494 - __main__ - INFO - not with Context
+2019-11-01 15:55:31,407 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 15:57:10,750 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 15:57:26,757 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 20:51:48,488 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 20:52:18,610 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:04:30,301 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:05:35,931 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:05:58,940 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:06:08,340 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:06:35,989 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:07:11,853 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:16:29,598 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:16:59,168 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:17:40,975 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:18:16,090 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:18:36,339 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:19:45,450 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:20:37,240 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:31:13,342 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:31:41,779 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:39:58,291 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-01 21:40:23,540 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-02 16:01:18,319 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-02 16:02:19,149 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-02 16:14:19,282 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-03 13:15:00,084 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-03 13:24:51,196 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-03 13:25:16,221 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-03 13:33:28,389 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-03 13:47:04,350 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-11-03 13:47:04,785 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-11-03 13:47:05,212 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-11-03 13:47:05,617 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-11-03 13:47:05,617 - __main__ - INFO - not with Context
+2019-11-03 13:47:54,904 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-11-03 13:47:55,341 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-11-03 13:47:55,771 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-11-03 13:47:56,176 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-11-03 13:47:56,177 - __main__ - INFO - not with Context
+2019-11-03 13:48:45,281 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-11-03 13:48:45,711 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-11-03 13:48:46,140 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-11-03 13:48:46,549 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-11-03 13:48:46,549 - __main__ - INFO - not with Context
+2019-11-03 13:49:53,698 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-11-03 13:49:54,130 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-11-03 13:49:54,562 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-11-03 13:49:54,971 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-11-03 13:49:54,971 - __main__ - INFO - not with Context
+2019-11-03 13:52:36,046 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-11-03 13:52:36,476 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-11-03 13:52:36,903 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-11-03 13:52:37,309 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-11-03 13:52:37,310 - __main__ - INFO - not with Context
+2019-11-03 13:53:29,312 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-11-03 13:53:29,743 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-11-03 13:53:30,171 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-11-03 13:53:30,579 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-11-03 13:53:30,580 - __main__ - INFO - not with Context
+2019-11-03 13:57:30,156 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-11-03 13:57:30,590 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-11-03 13:57:31,020 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-11-03 13:57:31,424 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-11-03 13:57:31,425 - __main__ - INFO - not with Context
+2019-11-03 15:28:23,647 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 12:18:39,310 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 12:20:34,777 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 12:25:10,879 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 18:38:15,713 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-11-04 18:38:16,146 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-11-04 18:38:16,575 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-11-04 18:38:16,980 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-11-04 18:38:16,980 - __main__ - INFO - not with Context
+2019-11-04 18:38:49,662 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2019-11-04 18:38:50,095 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2019-11-04 18:38:50,524 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2019-11-04 18:38:50,928 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2019-11-04 18:38:50,928 - __main__ - INFO - not with Context
+2019-11-04 18:39:24,732 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 18:40:09,281 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 18:42:14,736 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 18:43:23,695 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 18:45:11,701 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 18:56:37,101 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 18:57:30,548 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 18:59:40,937 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 19:00:29,241 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 19:01:11,783 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 19:01:25,153 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 19:08:45,903 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 19:38:27,818 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 20:02:19,427 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 20:02:54,076 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 20:03:07,536 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-04 20:04:23,621 - root - WARNING - ../image/archery/arrow.png is not found
+2019-11-11 17:49:15,517 - root - WARNING - ../image/archery/arrow2.png is not found
+2019-12-04 18:08:28,762 - root - WARNING - ../image/appleflinger/apple.png is not found
+2019-12-04 18:08:28,778 - __main__ - INFO - not with Context
+2019-12-04 18:40:44,886 - root - WARNING - ../image/appleflinger/apple.png is not found
+2019-12-04 18:40:45,609 - root - WARNING - ../image/appleflinger/bigapple.png is not found
+2019-12-04 18:40:45,609 - __main__ - INFO - not with Context
+2019-12-04 19:32:34,573 - root - WARNING - ../image/appleflinger/apple.png is not found
+2019-12-04 19:32:34,573 - __main__ - INFO - not with Context
+2019-12-06 20:11:09,254 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2019-12-06 20:11:09,254 - __main__ - INFO - not with Context
+2019-12-09 09:26:13,445 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2019-12-09 09:26:14,214 - root - WARNING - ../image/appleflinger/rightapple.png is not found
+2019-12-09 09:26:14,215 - __main__ - INFO - not with Context
+2019-12-09 09:51:21,094 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2019-12-09 09:51:21,865 - root - WARNING - ../image/appleflinger/rightapple.png is not found
+2019-12-09 09:51:21,865 - __main__ - INFO - not with Context
+2019-12-10 09:18:56,424 - root - WARNING - ../image/archery/arrow.png is not found
+2019-12-10 09:18:56,991 - root - WARNING - ../image/archery/arrow2.png is not found
+2019-12-10 09:41:50,507 - root - WARNING - ../image/archery/arrow2.png is not found
+2020-01-20 13:35:25,527 - __main__ - INFO - not with Context
+2020-01-20 13:40:35,841 - __main__ - INFO - not with Context
+2020-01-20 13:41:06,009 - __main__ - INFO - not with Context
+2020-01-20 13:44:06,548 - __main__ - INFO - not with Context
+2020-01-20 13:55:28,586 - __main__ - INFO - not with Context
+2020-01-20 14:01:13,128 - __main__ - INFO - not with Context
+2020-01-20 14:02:38,682 - __main__ - INFO - not with Context
+2020-01-20 14:02:50,162 - __main__ - INFO - not with Context
+2020-01-20 14:04:35,645 - __main__ - INFO - not with Context
+2020-01-20 14:05:42,341 - __main__ - INFO - not with Context
+2020-01-20 14:12:08,850 - __main__ - INFO - not with Context
+2020-01-20 14:12:08,850 - __main__ - INFO - not with play icon
+2020-01-20 14:18:13,330 - __main__ - INFO - not with Context
+2020-01-20 14:18:13,330 - __main__ - INFO - not with play icon
+2020-01-20 14:22:25,834 - __main__ - INFO - not with Context
+2020-01-20 14:22:25,834 - __main__ - INFO - not with play icon
+2020-01-20 14:57:29,962 - __main__ - INFO - not with Context
+2020-01-20 14:57:29,962 - __main__ - INFO - not with play icon
+2020-01-22 19:26:41,246 - root - WARNING - ../image/appleflinger/rightapple.png is not found
+2020-01-22 19:26:41,246 - __main__ - INFO - not with Context
+2020-01-22 19:29:53,104 - root - WARNING - ../image/appleflinger/rightapple.png is not found
+2020-01-22 19:29:53,104 - __main__ - INFO - not with Context
+2020-01-22 21:16:15,297 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2020-01-22 21:16:15,851 - __main__ - INFO - not with Context
+2020-01-22 21:16:43,365 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2020-01-22 21:16:43,919 - __main__ - INFO - not with Context
+2020-01-22 21:17:02,917 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2020-01-22 21:17:03,479 - __main__ - INFO - not with Context
+2020-01-22 21:17:22,590 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2020-01-22 21:17:23,150 - __main__ - INFO - not with Context
+2020-01-22 21:25:14,487 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2020-01-22 21:25:15,042 - __main__ - INFO - not with Context
+2020-01-23 12:54:48,435 - root - WARNING - ../image/appleflinger/rightapple.png is not found
+2020-01-23 12:54:48,435 - __main__ - INFO - not with Context
+2020-01-23 21:11:17,689 - root - WARNING - ../image/archery/arrow2.png is not found
+2020-01-23 21:11:48,432 - root - WARNING - ../image/archery/arrow2.png is not found
+2020-01-23 21:12:07,327 - root - WARNING - ../image/archery/arrow2.png is not found
+2020-01-25 15:59:13,710 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-01-25 15:59:14,161 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-01-25 15:59:14,614 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-01-25 15:59:15,048 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-01-25 15:59:15,049 - __main__ - INFO - not with Context
+2020-01-28 14:01:44,849 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-01-28 14:01:45,353 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-01-28 14:01:45,833 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-01-28 14:01:46,297 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-01-28 14:01:46,297 - __main__ - INFO - not with Context
+2020-02-06 15:15:17,295 - root - WARNING - ../image/archery/arrow2.png is not found
+2020-02-06 15:15:17,797 - root - WARNING - ../image/archery/arrow3.png is not found
+2020-02-06 15:15:17,797 - __main__ - INFO - not with Context
+2020-02-06 16:09:59,494 - __main__ - INFO - not with Context
+2020-02-06 16:18:20,475 - __main__ - INFO - not with Context
+2020-02-06 16:54:19,346 - __main__ - INFO - not with Context
+2020-02-06 18:48:52,218 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-02-06 18:48:52,706 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-02-06 18:48:53,182 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-02-06 18:48:53,647 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-02-06 18:48:54,132 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-02-06 18:48:54,133 - __main__ - INFO - not with Context
+2020-02-06 18:57:09,284 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-02-06 18:57:09,762 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-02-06 18:57:10,235 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-02-06 18:57:10,686 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-02-06 18:57:11,153 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-02-06 18:57:11,153 - __main__ - INFO - not with Context
+2020-02-06 19:08:24,599 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-02-06 19:08:25,076 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-02-06 19:08:25,549 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-02-06 19:08:26,010 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-02-06 19:08:26,484 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-02-06 19:08:26,484 - __main__ - INFO - not with Context
+2020-02-07 12:21:54,607 - root - WARNING - ../image/candycrush/yellow.png is not found
+2020-02-07 12:21:55,169 - root - WARNING - ../image/candycrush/red.png is not found
+2020-02-07 12:21:55,810 - root - WARNING - ../image/candycrush/blue.png is not found
+2020-02-07 12:21:56,401 - root - WARNING - ../image/candycrush/green.png is not found
+2020-02-07 12:21:57,003 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-07 12:21:57,558 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-07 12:21:57,558 - __main__ - INFO - not with Context
+2020-02-07 17:19:07,051 - root - WARNING - ../image/candycrush/yellow.png is not found
+2020-02-07 17:19:07,590 - root - WARNING - ../image/candycrush/red.png is not found
+2020-02-07 17:19:08,190 - root - WARNING - ../image/candycrush/blue.png is not found
+2020-02-07 17:19:08,760 - root - WARNING - ../image/candycrush/green.png is not found
+2020-02-07 17:19:09,299 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-07 17:19:09,836 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-07 17:19:10,329 - root - WARNING - ../image/candycrush/redstrip.png is not found
+2020-02-07 17:19:10,962 - root - WARNING - ../image/candycrush/greenstrip.png is not found
+2020-02-07 17:19:11,500 - root - WARNING - ../image/candycrush/bluestrip.png is not found
+2020-02-07 17:19:11,500 - __main__ - INFO - not with Context
+2020-02-07 17:20:25,710 - root - WARNING - ../image/candycrush/yellow.png is not found
+2020-02-07 17:20:26,251 - root - WARNING - ../image/candycrush/red.png is not found
+2020-02-07 17:20:26,852 - root - WARNING - ../image/candycrush/blue.png is not found
+2020-02-07 17:20:27,423 - root - WARNING - ../image/candycrush/green.png is not found
+2020-02-07 17:20:27,965 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-07 17:20:28,500 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-07 17:20:28,994 - root - WARNING - ../image/candycrush/redstrip.png is not found
+2020-02-07 17:20:29,629 - root - WARNING - ../image/candycrush/greenstrip.png is not found
+2020-02-07 17:20:30,166 - root - WARNING - ../image/candycrush/bluestrip.png is not found
+2020-02-07 17:20:30,166 - __main__ - INFO - not with Context
+2020-02-07 17:29:07,716 - root - WARNING - ../image/candycrush/yellow.png is not found
+2020-02-07 17:29:08,257 - root - WARNING - ../image/candycrush/red.png is not found
+2020-02-07 17:29:08,860 - root - WARNING - ../image/candycrush/blue.png is not found
+2020-02-07 17:29:09,429 - root - WARNING - ../image/candycrush/green.png is not found
+2020-02-07 17:29:09,972 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-07 17:29:10,506 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-07 17:29:11,004 - root - WARNING - ../image/candycrush/redstrip.png is not found
+2020-02-07 17:29:11,637 - root - WARNING - ../image/candycrush/greenstrip.png is not found
+2020-02-07 17:29:12,174 - root - WARNING - ../image/candycrush/bluestrip.png is not found
+2020-02-07 17:29:12,174 - __main__ - INFO - not with Context
+2020-02-07 17:35:07,935 - root - WARNING - ../image/candycrush/redstrip.png is not found
+2020-02-07 17:35:08,578 - root - WARNING - ../image/candycrush/greenstrip.png is not found
+2020-02-07 17:35:09,108 - root - WARNING - ../image/candycrush/bluestrip.png is not found
+2020-02-07 17:35:09,108 - __main__ - INFO - with ContextContext
+2020-02-11 12:27:52,114 - root - WARNING - ../image/candycrush/redstrip.png is not found
+2020-02-11 12:27:52,766 - root - WARNING - ../image/candycrush/greenstrip.png is not found
+2020-02-11 12:27:53,296 - root - WARNING - ../image/candycrush/bluestrip.png is not found
+2020-02-11 12:27:53,296 - __main__ - INFO - with ContextContext
+2020-02-11 12:27:53,296 - __main__ - INFO - context analyze
+2020-02-11 12:28:51,897 - root - WARNING - ../image/candycrush/redstrip.png is not found
+2020-02-11 12:28:52,547 - root - WARNING - ../image/candycrush/greenstrip.png is not found
+2020-02-11 12:28:53,077 - root - WARNING - ../image/candycrush/bluestrip.png is not found
+2020-02-11 12:28:53,077 - __main__ - INFO - with ContextContext
+2020-02-11 12:28:53,077 - __main__ - INFO - context analyze
+2020-02-11 12:32:33,697 - root - WARNING - ../image/candycrush/redstrip.png is not found
+2020-02-11 12:32:34,341 - root - WARNING - ../image/candycrush/greenstrip.png is not found
+2020-02-11 12:32:34,870 - root - WARNING - ../image/candycrush/bluestrip.png is not found
+2020-02-11 12:32:34,870 - __main__ - INFO - with ContextContext
+2020-02-11 12:32:34,870 - __main__ - INFO - context analyze
+2020-02-11 13:04:05,537 - root - WARNING - ../image/candycrush/redstrip.png is not found
+2020-02-11 13:04:06,183 - root - WARNING - ../image/candycrush/greenstrip.png is not found
+2020-02-11 13:04:06,715 - root - WARNING - ../image/candycrush/bluestrip.png is not found
+2020-02-11 13:04:06,715 - __main__ - INFO - with ContextContext
+2020-02-11 13:04:06,715 - __main__ - INFO - context analyze
+2020-02-11 13:04:36,048 - root - WARNING - ../image/candycrush/redstrip.png is not found
+2020-02-11 13:04:36,692 - root - WARNING - ../image/candycrush/greenstrip.png is not found
+2020-02-11 13:04:37,221 - root - WARNING - ../image/candycrush/bluestrip.png is not found
+2020-02-11 13:04:37,221 - __main__ - INFO - with ContextContext
+2020-02-11 13:04:37,221 - __main__ - INFO - context analyze
+2020-02-11 13:05:54,128 - root - WARNING - ../image/candycrush/redstrip.png is not found
+2020-02-11 13:05:54,773 - root - WARNING - ../image/candycrush/greenstrip.png is not found
+2020-02-11 13:05:55,302 - root - WARNING - ../image/candycrush/bluestrip.png is not found
+2020-02-11 13:05:55,303 - __main__ - INFO - with ContextContext
+2020-02-11 13:05:55,303 - __main__ - INFO - context analyze
+2020-02-11 13:10:39,396 - root - WARNING - ../image/candycrush/redstrip.png is not found
+2020-02-11 13:10:40,043 - root - WARNING - ../image/candycrush/greenstrip.png is not found
+2020-02-11 13:10:40,574 - root - WARNING - ../image/candycrush/bluestrip.png is not found
+2020-02-11 13:10:40,574 - __main__ - INFO - with ContextContext
+2020-02-11 13:10:40,574 - __main__ - INFO - context analyze
+2020-02-11 13:11:30,738 - __main__ - INFO - with ContextContext
+2020-02-11 13:11:30,738 - __main__ - INFO - context analyze
+2020-02-11 13:36:12,679 - __main__ - INFO - with ContextContext
+2020-02-11 13:36:12,679 - __main__ - INFO - context analyze
+2020-02-11 13:37:50,225 - __main__ - INFO - with ContextContext
+2020-02-11 13:37:50,225 - __main__ - INFO - context analyze
+2020-02-11 13:41:20,147 - __main__ - INFO - with ContextContext
+2020-02-11 13:41:20,147 - __main__ - INFO - context analyze
+2020-02-11 14:21:26,135 - __main__ - INFO - with ContextContext
+2020-02-11 14:21:26,135 - __main__ - INFO - context analyze
+2020-02-11 14:27:38,641 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:27:39,262 - __main__ - INFO - with ContextContext
+2020-02-11 14:27:39,262 - __main__ - INFO - context analyze
+2020-02-11 14:28:50,324 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:28:50,937 - __main__ - INFO - with ContextContext
+2020-02-11 14:28:50,937 - __main__ - INFO - context analyze
+2020-02-11 14:30:26,703 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:30:27,322 - __main__ - INFO - with ContextContext
+2020-02-11 14:30:27,322 - __main__ - INFO - context analyze
+2020-02-11 14:34:23,605 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:34:24,210 - __main__ - INFO - with ContextContext
+2020-02-11 14:34:24,210 - __main__ - INFO - context analyze
+2020-02-11 14:34:50,191 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:34:50,789 - __main__ - INFO - with ContextContext
+2020-02-11 14:34:50,789 - __main__ - INFO - context analyze
+2020-02-11 14:38:59,560 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:39:00,153 - __main__ - INFO - with ContextContext
+2020-02-11 14:39:00,153 - __main__ - INFO - context analyze
+2020-02-11 14:41:46,132 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:41:46,716 - __main__ - INFO - with ContextContext
+2020-02-11 14:41:46,716 - __main__ - INFO - context analyze
+2020-02-11 14:42:26,700 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:42:27,305 - __main__ - INFO - with ContextContext
+2020-02-11 14:42:27,305 - __main__ - INFO - context analyze
+2020-02-11 14:45:58,715 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:45:59,307 - __main__ - INFO - with ContextContext
+2020-02-11 14:45:59,307 - __main__ - INFO - context analyze
+2020-02-11 14:48:44,869 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:48:45,455 - __main__ - INFO - with ContextContext
+2020-02-11 14:48:45,455 - __main__ - INFO - context analyze
+2020-02-11 14:48:48,557 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:49:53,992 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:49:54,586 - __main__ - INFO - with ContextContext
+2020-02-11 14:49:54,587 - __main__ - INFO - context analyze
+2020-02-11 14:50:25,552 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:52:08,838 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:52:09,599 - __main__ - INFO - with ContextContext
+2020-02-11 14:52:09,599 - __main__ - INFO - context analyze
+2020-02-11 14:52:31,862 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:54:34,184 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:54:34,773 - __main__ - INFO - with ContextContext
+2020-02-11 14:54:34,773 - __main__ - INFO - context analyze
+2020-02-11 14:55:44,227 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:55:44,812 - __main__ - INFO - with ContextContext
+2020-02-11 14:55:44,813 - __main__ - INFO - context analyze
+2020-02-11 14:55:48,110 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:58:14,372 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:58:14,950 - __main__ - INFO - with ContextContext
+2020-02-11 14:58:14,951 - __main__ - INFO - context analyze
+2020-02-11 14:58:18,044 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 14:58:18,627 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-11 15:03:12,170 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:03:12,750 - __main__ - INFO - with ContextContext
+2020-02-11 15:03:12,750 - __main__ - INFO - context analyze
+2020-02-11 15:03:15,797 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:03:16,378 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-11 15:10:01,214 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:10:01,794 - __main__ - INFO - with ContextContext
+2020-02-11 15:10:01,794 - __main__ - INFO - context analyze
+2020-02-11 15:10:04,813 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:10:05,401 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-11 15:10:08,511 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:10:09,126 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-11 15:10:12,260 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:10:12,858 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-11 15:10:15,965 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:10:16,545 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-11 15:11:43,046 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:11:43,634 - __main__ - INFO - with ContextContext
+2020-02-11 15:11:43,634 - __main__ - INFO - context analyze
+2020-02-11 15:11:46,685 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:11:47,253 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-11 15:11:50,298 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:11:50,871 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-11 15:11:53,974 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:11:54,553 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-11 15:11:57,586 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:11:58,161 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-11 15:15:15,847 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:15:16,433 - __main__ - INFO - with ContextContext
+2020-02-11 15:15:16,433 - __main__ - INFO - context analyze
+2020-02-11 15:15:19,517 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:15:20,094 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-11 15:15:23,159 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:15:23,736 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-11 15:15:26,784 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:15:27,357 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-11 15:15:30,437 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-11 15:15:31,029 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-15 16:34:40,878 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:34:41,500 - __main__ - INFO - with ContextContext
+2020-02-15 16:34:41,500 - __main__ - INFO - context analyze
+2020-02-15 16:34:44,628 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:34:48,338 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:34:52,085 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:34:55,849 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:34:59,574 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:35:03,327 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:35:07,072 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:35:10,868 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:35:14,608 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:35:18,338 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:35:22,065 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:43:28,527 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:43:29,135 - __main__ - INFO - with ContextContext
+2020-02-15 16:43:29,135 - __main__ - INFO - context analyze
+2020-02-15 16:43:32,323 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:43:32,920 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-15 16:44:16,296 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:44:16,898 - __main__ - INFO - with ContextContext
+2020-02-15 16:44:16,898 - __main__ - INFO - context analyze
+2020-02-15 16:44:20,070 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-15 16:44:20,694 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-17 18:08:20,698 - root - WARNING - ../image/link/sg01.png is not found
+2020-02-17 18:08:21,289 - root - WARNING - ../image/link/sg02.png is not found
+2020-02-17 18:08:21,882 - root - WARNING - ../image/link/sg03.png is not found
+2020-02-17 18:08:22,475 - root - WARNING - ../image/link/sg04.png is not found
+2020-02-17 18:08:23,070 - root - WARNING - ../image/link/sg05.png is not found
+2020-02-17 18:08:23,663 - root - WARNING - ../image/link/sg06.png is not found
+2020-02-17 18:08:24,255 - root - WARNING - ../image/link/sg07.png is not found
+2020-02-17 18:08:24,854 - root - WARNING - ../image/link/sg08.png is not found
+2020-02-17 18:08:25,443 - root - WARNING - ../image/link/sg09.png is not found
+2020-02-17 18:08:26,037 - root - WARNING - ../image/link/sg10.png is not found
+2020-02-17 18:08:26,630 - root - WARNING - ../image/link/sg11.png is not found
+2020-02-17 18:08:27,218 - root - WARNING - ../image/link/sg12.png is not found
+2020-02-17 18:08:27,810 - root - WARNING - ../image/link/sg13.png is not found
+2020-02-17 18:08:28,406 - root - WARNING - ../image/link/sg14.png is not found
+2020-02-17 18:08:28,991 - root - WARNING - ../image/link/sg15.png is not found
+2020-02-17 18:08:29,578 - root - WARNING - ../image/link/sg16.png is not found
+2020-02-17 18:08:30,166 - root - WARNING - ../image/link/sg17.png is not found
+2020-02-17 18:08:30,760 - root - WARNING - ../image/link/sg18.png is not found
+2020-02-17 18:08:31,361 - root - WARNING - ../image/link/sg19.png is not found
+2020-02-17 18:08:31,962 - root - WARNING - ../image/link/sg20.png is not found
+2020-02-17 18:08:31,963 - __main__ - INFO - not with Context
+2020-02-17 18:27:36,579 - root - WARNING - ../image/link/sg01.png is not found
+2020-02-17 18:27:37,145 - root - WARNING - ../image/link/sg02.png is not found
+2020-02-17 18:27:37,716 - root - WARNING - ../image/link/sg03.png is not found
+2020-02-17 18:27:38,283 - root - WARNING - ../image/link/sg04.png is not found
+2020-02-17 18:27:38,850 - root - WARNING - ../image/link/sg05.png is not found
+2020-02-17 18:27:39,418 - root - WARNING - ../image/link/sg06.png is not found
+2020-02-17 18:27:39,985 - root - WARNING - ../image/link/sg07.png is not found
+2020-02-17 18:27:40,552 - root - WARNING - ../image/link/sg08.png is not found
+2020-02-17 18:27:41,120 - root - WARNING - ../image/link/sg09.png is not found
+2020-02-17 18:27:41,687 - root - WARNING - ../image/link/sg10.png is not found
+2020-02-17 18:27:42,253 - root - WARNING - ../image/link/sg11.png is not found
+2020-02-17 18:27:42,815 - root - WARNING - ../image/link/sg12.png is not found
+2020-02-17 18:27:43,382 - root - WARNING - ../image/link/sg13.png is not found
+2020-02-17 18:27:43,949 - root - WARNING - ../image/link/sg14.png is not found
+2020-02-17 18:27:44,514 - root - WARNING - ../image/link/sg15.png is not found
+2020-02-17 18:27:45,079 - root - WARNING - ../image/link/sg16.png is not found
+2020-02-17 18:27:45,642 - root - WARNING - ../image/link/sg17.png is not found
+2020-02-17 18:27:46,209 - root - WARNING - ../image/link/sg18.png is not found
+2020-02-17 18:27:46,775 - root - WARNING - ../image/link/sg19.png is not found
+2020-02-17 18:27:47,340 - root - WARNING - ../image/link/sg20.png is not found
+2020-02-17 18:27:47,341 - __main__ - INFO - not with Context
+2020-02-17 19:06:40,872 - root - WARNING - ../image/link/01.png is not found
+2020-02-17 19:06:41,710 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:06:42,526 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:06:43,586 - root - WARNING - ../image/link/04.png is not found
+2020-02-17 19:06:44,377 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 19:06:45,370 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 19:06:46,229 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:06:46,965 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:06:48,015 - root - WARNING - ../image/link/09.png is not found
+2020-02-17 19:06:48,830 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:06:49,526 - root - WARNING - ../image/link/11.png is not found
+2020-02-17 19:06:49,527 - __main__ - INFO - not with Context
+2020-02-17 19:09:32,123 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:09:32,948 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:09:34,811 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 19:09:35,791 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 19:09:36,633 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:09:52,423 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:09:53,249 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:09:55,119 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 19:09:56,117 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 19:09:56,969 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:10:00,285 - __main__ - INFO - with ContextContext
+2020-02-17 19:10:00,285 - __main__ - INFO - context analyze
+2020-02-17 19:10:02,025 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:10:02,858 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:10:03,964 - root - WARNING - ../image/link/04.png is not found
+2020-02-17 19:10:04,788 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 19:10:05,775 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 19:10:06,622 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:10:07,355 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:10:44,709 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:10:45,530 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:10:47,383 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 19:10:48,355 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 19:10:49,187 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:10:52,457 - __main__ - INFO - with ContextContext
+2020-02-17 19:10:52,457 - __main__ - INFO - context analyze
+2020-02-17 19:10:54,169 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:10:54,983 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:10:56,038 - root - WARNING - ../image/link/04.png is not found
+2020-02-17 19:10:56,827 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 19:10:57,801 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 19:10:58,635 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:10:59,358 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:13:14,481 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:13:15,312 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:13:19,003 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:13:19,722 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:13:21,595 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:13:22,299 - __main__ - INFO - with ContextContext
+2020-02-17 19:13:22,299 - __main__ - INFO - context analyze
+2020-02-17 19:13:24,042 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:13:24,859 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:13:26,718 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 19:13:27,692 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 19:13:28,533 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:13:29,261 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:13:31,135 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:15:14,316 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:15:15,138 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:15:18,835 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:15:19,555 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:15:21,420 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:15:22,113 - __main__ - INFO - with ContextContext
+2020-02-17 19:16:09,043 - __main__ - INFO - context analyze
+2020-02-17 19:16:24,957 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:16:25,779 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:16:27,632 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 19:16:28,608 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 19:16:29,443 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:16:30,167 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:16:32,019 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:21:41,572 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:21:42,393 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:21:46,057 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:21:46,776 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:21:48,632 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:21:49,327 - __main__ - INFO - with ContextContext
+2020-02-17 19:21:49,327 - __main__ - INFO - context analyze
+2020-02-17 19:21:51,034 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:21:51,849 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:21:53,696 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 19:21:54,665 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 19:21:55,498 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:21:56,214 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:21:58,067 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:22:23,766 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:22:24,588 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:22:28,255 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:22:28,974 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:22:30,831 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:22:31,526 - __main__ - INFO - with ContextContext
+2020-02-17 19:22:31,526 - __main__ - INFO - context analyze
+2020-02-17 19:22:33,232 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:22:34,047 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:22:35,900 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 19:22:36,870 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 19:22:37,700 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:22:38,415 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:22:40,266 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:25:03,011 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:25:03,833 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:25:07,513 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:25:08,233 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:25:10,093 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:25:10,793 - __main__ - INFO - with ContextContext
+2020-02-17 19:25:10,793 - __main__ - INFO - context analyze
+2020-02-17 19:25:12,512 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:25:13,337 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:25:15,210 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 19:25:16,187 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 19:25:17,020 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:25:17,742 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:25:19,593 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:47:27,125 - root - WARNING - ../image/candycrush/yellow.png is not found
+2020-02-17 19:47:27,674 - root - WARNING - ../image/candycrush/red.png is not found
+2020-02-17 19:47:47,863 - root - WARNING - ../image/candycrush/yellow.png is not found
+2020-02-17 19:47:48,409 - root - WARNING - ../image/candycrush/red.png is not found
+2020-02-17 19:47:48,951 - root - WARNING - ../image/candycrush/blue.png is not found
+2020-02-17 19:47:49,492 - root - WARNING - ../image/candycrush/green.png is not found
+2020-02-17 19:47:50,031 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-17 19:47:50,574 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-17 19:47:50,574 - __main__ - INFO - not with Context
+2020-02-17 19:47:55,805 - root - WARNING - ../image/candycrush/yellow.png is not found
+2020-02-17 19:47:56,346 - root - WARNING - ../image/candycrush/red.png is not found
+2020-02-17 19:47:56,887 - root - WARNING - ../image/candycrush/blue.png is not found
+2020-02-17 19:47:57,427 - root - WARNING - ../image/candycrush/green.png is not found
+2020-02-17 19:47:57,967 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-17 19:47:58,508 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-17 19:47:58,508 - __main__ - INFO - not with Context
+2020-02-17 19:48:15,359 - root - WARNING - ../image/candycrush/yellow.png is not found
+2020-02-17 19:48:15,898 - root - WARNING - ../image/candycrush/red.png is not found
+2020-02-17 19:48:16,438 - root - WARNING - ../image/candycrush/blue.png is not found
+2020-02-17 19:48:16,977 - root - WARNING - ../image/candycrush/green.png is not found
+2020-02-17 19:48:17,519 - root - WARNING - ../image/candycrush/purple.png is not found
+2020-02-17 19:48:18,062 - root - WARNING - ../image/candycrush/orange.png is not found
+2020-02-17 19:48:28,826 - __main__ - INFO - not with Context
+2020-02-17 19:51:30,126 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:51:30,984 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:51:34,824 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:51:35,570 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:51:37,502 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:51:38,216 - __main__ - INFO - with ContextContext
+2020-02-17 19:51:38,216 - __main__ - INFO - context analyze
+2020-02-17 19:51:40,012 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:51:40,861 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:51:42,771 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 19:51:43,778 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 19:51:44,643 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:51:45,378 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:51:47,321 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:54:45,027 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:54:45,895 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:54:49,677 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:54:50,420 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:54:52,357 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 19:54:53,077 - __main__ - INFO - with ContextContext
+2020-02-17 19:54:53,078 - __main__ - INFO - context analyze
+2020-02-17 19:54:54,865 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 19:54:55,712 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 19:54:57,632 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 19:54:58,629 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 19:54:59,497 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 19:55:00,256 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 19:55:02,190 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 20:00:21,037 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 20:00:21,902 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 20:00:25,754 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 20:00:26,505 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 20:00:28,452 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 20:00:29,183 - __main__ - INFO - with ContextContext
+2020-02-17 20:00:29,183 - __main__ - INFO - context analyze
+2020-02-17 20:00:30,980 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 20:00:31,843 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 20:00:33,785 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 20:00:34,805 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 20:00:35,680 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 20:00:36,430 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 20:00:38,382 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 20:00:40,902 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 20:00:41,763 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 20:00:43,702 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 20:00:44,726 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 20:00:45,595 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 20:00:46,334 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 20:00:48,252 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 20:07:23,840 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 20:07:24,665 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 20:07:28,335 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 20:07:29,053 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 20:07:30,899 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 20:07:31,624 - __main__ - INFO - with ContextContext
+2020-02-17 20:07:31,624 - __main__ - INFO - context analyze
+2020-02-17 20:07:33,437 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 20:07:34,264 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 20:07:36,209 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 20:07:37,232 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 20:07:38,109 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 20:07:38,849 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 20:07:40,737 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 20:07:43,137 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 20:07:43,945 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 20:07:45,790 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 20:07:46,755 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 20:07:47,580 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 20:07:48,299 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 20:07:50,160 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 20:10:35,657 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 20:10:36,480 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 20:10:40,166 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 20:10:40,889 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 20:10:42,748 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 20:10:43,439 - __main__ - INFO - with ContextContext
+2020-02-17 20:10:43,439 - __main__ - INFO - context analyze
+2020-02-17 20:10:45,152 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 20:10:45,971 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 20:10:47,823 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 20:10:48,796 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 20:10:49,635 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 20:10:50,364 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 20:10:52,242 - root - WARNING - ../image/link/10.png is not found
+2020-02-17 20:10:54,646 - root - WARNING - ../image/link/02.png is not found
+2020-02-17 20:10:55,466 - root - WARNING - ../image/link/03.png is not found
+2020-02-17 20:10:57,390 - root - WARNING - ../image/link/05.png is not found
+2020-02-17 20:10:58,398 - root - WARNING - ../image/link/06.png is not found
+2020-02-17 20:10:59,233 - root - WARNING - ../image/link/07.png is not found
+2020-02-17 20:10:59,952 - root - WARNING - ../image/link/08.png is not found
+2020-02-17 20:11:01,816 - root - WARNING - ../image/link/10.png is not found
+2020-02-28 15:32:05,395 - __main__ - INFO - not with Context
+2020-02-28 15:34:17,192 - __main__ - INFO - not with Context
+2020-02-28 15:38:42,392 - __main__ - INFO - with ContextContext
+2020-02-28 15:38:42,393 - __main__ - INFO - context analyze
+2020-02-28 15:53:35,485 - __main__ - INFO - with ContextContext
+2020-02-28 15:53:35,485 - __main__ - INFO - context analyze
+2020-03-02 17:31:47,823 - __main__ - INFO - with ContextContext
+2020-03-02 17:31:47,824 - __main__ - INFO - context analyze
+2020-03-02 17:36:19,858 - __main__ - INFO - with ContextContext
+2020-03-02 17:36:55,364 - __main__ - INFO - context analyze
+2020-03-02 17:45:57,476 - __main__ - INFO - with ContextContext
+2020-03-02 17:45:57,476 - __main__ - INFO - context analyze
+2020-03-02 17:46:12,882 - __main__ - INFO - with ContextContext
+2020-03-02 17:46:12,883 - __main__ - INFO - context analyze
+2020-03-02 17:50:27,253 - __main__ - INFO - with ContextContext
+2020-03-02 17:50:27,253 - __main__ - INFO - context analyze
+2020-03-02 17:51:30,066 - __main__ - INFO - with ContextContext
+2020-03-02 17:51:30,066 - __main__ - INFO - context analyze
+2020-03-02 17:51:45,807 - __main__ - INFO - with ContextContext
+2020-03-02 17:51:45,807 - __main__ - INFO - context analyze
+2020-03-02 17:52:02,507 - __main__ - INFO - with ContextContext
+2020-03-02 17:52:02,507 - __main__ - INFO - context analyze
+2020-03-02 17:53:40,106 - __main__ - INFO - with ContextContext
+2020-03-02 17:53:40,106 - __main__ - INFO - context analyze
+2020-03-02 17:54:10,454 - __main__ - INFO - with ContextContext
+2020-03-02 17:54:10,454 - __main__ - INFO - context analyze
+2020-03-02 18:01:10,807 - __main__ - INFO - with ContextContext
+2020-03-02 18:01:10,807 - __main__ - INFO - context analyze
+2020-03-02 18:02:23,625 - __main__ - INFO - with ContextContext
+2020-03-02 18:02:23,625 - __main__ - INFO - context analyze
+2020-03-05 14:26:01,425 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:26:01,425 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:26:02,017 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:26:02,018 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:26:02,552 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:26:02,553 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:26:03,120 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:26:03,120 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:26:03,709 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:26:03,709 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:26:04,282 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:26:04,282 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:26:04,829 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:26:04,829 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:26:05,494 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:26:05,494 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:26:05,494 - __main__ - INFO - with ContextTarget
+2020-03-05 14:28:30,237 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:28:30,237 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:28:30,786 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:28:30,787 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:28:31,302 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:28:31,302 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:28:31,835 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:28:31,836 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:28:32,396 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:28:32,397 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:28:32,940 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:28:32,941 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:28:33,507 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:28:33,508 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:28:34,165 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:28:34,166 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:28:34,166 - __main__ - INFO - with ContextTarget
+2020-03-05 14:43:04,006 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:43:04,006 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:43:04,583 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:43:04,583 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:43:05,103 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:43:05,103 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:43:05,666 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:43:05,666 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:43:06,219 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:43:06,220 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:43:06,758 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:43:06,759 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:43:07,272 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:43:07,273 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:43:07,919 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:43:07,920 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:43:07,920 - __main__ - INFO - with ContextTarget
+2020-03-05 14:43:50,006 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:43:50,007 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:43:50,517 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:43:50,517 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:43:50,975 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:43:50,975 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:43:51,455 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:43:51,455 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:43:51,961 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:43:51,961 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:43:52,428 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:43:52,428 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:43:52,921 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:43:52,921 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:43:53,599 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:43:53,599 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:43:53,600 - __main__ - INFO - with ContextTarget
+2020-03-05 14:52:04,876 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:52:04,876 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:52:05,439 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:52:05,440 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:52:05,953 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:52:05,953 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:52:06,482 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:52:06,483 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:52:07,040 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:52:07,042 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:52:07,591 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:52:07,592 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:52:08,157 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:52:08,158 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:52:08,877 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:52:08,879 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:52:08,879 - __main__ - INFO - with ContextTarget
+2020-03-05 14:54:22,125 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:54:22,125 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:54:22,682 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:54:22,682 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:54:23,213 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:54:23,213 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:54:23,744 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:54:23,745 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:54:24,276 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:54:24,277 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:54:24,783 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:54:24,784 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:54:25,307 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:54:25,308 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:54:25,946 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:54:25,947 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:54:25,947 - __main__ - INFO - with ContextTarget
+2020-03-05 14:55:05,893 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:55:05,893 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:55:06,452 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:55:06,453 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:55:06,968 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:55:06,968 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:55:07,489 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:55:07,489 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:55:08,034 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:55:08,035 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:55:08,549 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:55:08,550 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:55:09,080 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:55:09,081 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:55:09,738 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:55:09,739 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:55:09,739 - __main__ - INFO - with ContextTarget
+2020-03-05 14:55:44,891 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:55:44,892 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:55:45,458 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:55:45,458 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:55:45,972 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:55:45,972 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:55:46,498 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:55:46,499 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:55:47,037 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:55:47,038 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:55:47,551 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:55:47,552 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:55:48,072 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:55:48,073 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:55:48,728 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:55:48,730 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:55:48,731 - __main__ - INFO - with ContextTarget
+2020-03-05 14:57:26,606 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:57:26,606 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 14:57:27,177 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:57:27,177 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 14:57:27,692 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:57:27,693 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 14:57:28,212 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:57:28,212 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 14:57:28,797 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:57:28,798 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 14:57:29,361 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:57:29,361 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 14:57:29,891 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:57:29,891 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 14:57:30,523 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:57:30,523 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 14:57:30,523 - __main__ - INFO - with ContextTarget
+2020-03-05 15:23:03,336 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:23:03,336 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:23:03,854 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:23:03,855 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:23:04,319 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:23:04,319 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:23:04,803 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:23:04,803 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:23:05,285 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:23:05,286 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:23:05,756 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:23:05,757 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:23:06,234 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:23:06,234 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:23:06,819 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:23:06,820 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:23:06,820 - __main__ - INFO - with ContextTarget
+2020-03-05 15:23:26,911 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:23:26,911 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:23:27,421 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:23:27,421 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:23:27,881 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:23:27,881 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:23:28,367 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:23:28,367 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:23:28,853 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:23:28,853 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:23:29,329 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:23:29,329 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:23:29,809 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:23:29,810 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:23:30,392 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:23:30,392 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:23:30,392 - __main__ - INFO - with ContextTarget
+2020-03-05 15:27:23,530 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:27:23,530 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:27:24,044 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:27:24,045 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:27:24,516 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:27:24,516 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:27:24,996 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:27:24,996 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:27:25,485 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:27:25,486 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:27:25,957 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:27:25,958 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:27:26,439 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:27:26,440 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:27:27,029 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:27:27,030 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:27:27,030 - __main__ - INFO - with ContextTarget
+2020-03-05 15:28:05,765 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:28:05,765 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:28:06,298 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:28:06,298 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:28:06,777 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:28:06,777 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:28:07,263 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:28:07,263 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:28:07,751 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:28:07,752 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:28:08,221 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:28:08,222 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:28:08,711 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:28:08,712 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:28:09,303 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:28:09,303 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:28:09,304 - __main__ - INFO - with ContextTarget
+2020-03-05 15:29:48,703 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:29:48,703 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:29:49,227 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:29:49,227 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:29:49,697 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:29:49,697 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:29:50,188 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:29:50,188 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:29:50,674 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:29:50,674 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:29:51,150 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:29:51,150 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:29:51,636 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:29:51,636 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:29:52,222 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:29:52,222 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:29:52,222 - __main__ - INFO - with ContextTarget
+2020-03-05 15:38:13,585 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:38:13,585 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:38:14,107 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:38:14,108 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:38:14,583 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:38:14,583 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:38:15,064 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:38:15,065 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:38:15,556 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:38:15,557 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:38:16,035 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:38:16,036 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:38:16,523 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:38:16,524 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:38:17,116 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:38:17,116 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:38:17,117 - __main__ - INFO - with ContextTarget
+2020-03-05 15:41:47,998 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:41:47,998 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:41:48,509 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:41:48,509 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:41:48,970 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:41:48,970 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:41:49,450 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:41:49,450 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:41:49,931 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:41:49,931 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:41:50,396 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:41:50,396 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:41:50,873 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:41:50,873 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:41:51,455 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:41:51,455 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:41:51,456 - __main__ - INFO - with ContextTarget
+2020-03-05 15:46:34,266 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:46:34,266 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:46:34,783 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:46:34,783 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:46:35,249 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:46:35,249 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:46:35,736 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:46:35,736 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:46:36,224 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:46:36,224 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:46:36,695 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:46:36,695 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:46:37,177 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:46:37,177 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:46:37,765 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:46:37,766 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:46:37,766 - __main__ - INFO - with ContextTarget
+2020-03-05 15:47:13,949 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:47:13,949 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 15:47:14,466 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:47:14,467 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 15:47:14,940 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:47:14,941 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 15:47:15,429 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:47:15,430 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 15:47:15,926 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:47:15,926 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 15:47:16,403 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:47:16,404 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 15:47:16,889 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:47:16,889 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 15:47:17,481 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:47:17,482 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 15:47:17,482 - __main__ - INFO - with ContextTarget
+2020-03-05 16:28:37,873 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:28:37,874 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:28:38,402 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:28:38,403 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:28:38,882 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:28:38,882 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:28:39,368 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:28:39,369 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:28:39,886 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:28:39,887 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:28:40,391 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:28:40,392 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:28:40,895 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:28:40,896 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:28:41,514 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:28:41,515 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:28:41,515 - __main__ - INFO - with ContextTarget
+2020-03-05 16:34:58,729 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:34:58,729 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:34:59,259 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:34:59,260 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:34:59,746 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:34:59,746 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:35:00,249 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:35:00,250 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:35:00,760 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:35:00,760 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:35:01,247 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:35:01,248 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:35:01,752 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:35:01,753 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:35:02,384 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:35:02,385 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:35:02,385 - __main__ - INFO - with ContextTarget
+2020-03-05 16:36:21,177 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:36:21,177 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:36:21,709 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:36:21,709 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:36:22,190 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:36:22,190 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:36:22,690 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:36:22,691 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:36:23,186 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:36:23,186 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:36:23,674 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:36:23,674 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:36:24,164 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:36:24,165 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:36:24,762 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:36:24,762 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:36:24,763 - __main__ - INFO - with ContextTarget
+2020-03-05 16:40:24,477 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:40:24,477 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:40:25,012 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:40:25,012 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:40:25,501 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:40:25,501 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:40:26,002 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:40:26,003 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:40:26,507 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:40:26,508 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:40:26,994 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:40:26,994 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:40:27,491 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:40:27,492 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:40:28,096 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:40:28,097 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:40:28,097 - __main__ - INFO - with ContextTarget
+2020-03-05 16:41:40,060 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:41:40,061 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:41:40,592 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:41:40,592 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:41:41,078 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:41:41,078 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:41:41,577 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:41:41,577 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:41:42,081 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:41:42,081 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:41:42,568 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:41:42,568 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:41:43,061 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:41:43,061 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:41:43,658 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:41:43,658 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:41:43,658 - __main__ - INFO - with ContextTarget
+2020-03-05 16:44:01,520 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:44:01,520 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:44:02,050 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:44:02,050 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:44:02,530 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:44:02,530 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:44:03,028 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:44:03,028 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:44:03,528 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:44:03,528 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:44:04,010 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:44:04,010 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:44:04,502 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:44:04,502 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:44:05,104 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:44:05,104 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:44:05,104 - __main__ - INFO - with ContextTarget
+2020-03-05 16:45:03,711 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:45:03,711 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:45:04,238 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:45:04,238 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:45:04,717 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:45:04,718 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:45:05,216 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:45:05,217 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:45:05,724 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:45:05,725 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:45:06,212 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:45:06,213 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:45:06,712 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:45:06,713 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:45:07,323 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:45:07,324 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:45:07,324 - __main__ - INFO - with ContextTarget
+2020-03-05 16:47:16,992 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:47:16,993 - root - WARNING - ../image/angrybirds/sling.png is not found
+2020-03-05 16:47:17,533 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:47:17,533 - root - WARNING - ../image/angrybirds/sling2.png is not found
+2020-03-05 16:47:18,022 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:47:18,022 - root - WARNING - ../image/angrybirds/bluebird.png is not found
+2020-03-05 16:47:18,526 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:47:18,526 - root - WARNING - ../image/angrybirds/redbird.png is not found
+2020-03-05 16:47:19,027 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:47:19,027 - root - WARNING - ../image/angrybirds/redbird2.png is not found
+2020-03-05 16:47:19,512 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:47:19,512 - root - WARNING - ../image/angrybirds/bluebird2.png is not found
+2020-03-05 16:47:20,010 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:47:20,010 - root - WARNING - ../image/angrybirds/redbird3.png is not found
+2020-03-05 16:47:20,608 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:47:20,608 - root - WARNING - ../image/angrybirds/yellowbird.png is not found
+2020-03-05 16:47:20,608 - __main__ - INFO - with ContextTarget
+2020-03-13 13:36:12,745 - root - WARNING - ../image/openflood/yellow.png is not found
+2020-03-13 13:36:12,746 - root - WARNING - ../image/openflood/yellow.png is not found
+2020-03-13 13:36:16,575 - __main__ - INFO - with ContextContext
+2020-03-13 13:36:16,575 - __main__ - INFO - context analyze
+2020-03-13 13:36:17,270 - root - WARNING - ../image/openflood/yellow.png is not found
+2020-03-13 13:36:18,750 - root - WARNING - ../image/openflood/blue.png is not found
+2020-03-13 13:36:21,771 - root - WARNING - ../image/openflood/yellow.png is not found
+2020-03-13 13:36:23,258 - root - WARNING - ../image/openflood/blue.png is not found
+2020-03-13 13:36:26,268 - root - WARNING - ../image/openflood/yellow.png is not found
+2020-03-13 13:36:27,754 - root - WARNING - ../image/openflood/blue.png is not found
+2020-03-13 13:44:07,453 - root - WARNING - ../image/openflood/yellow.png is not found
+2020-03-13 13:44:07,453 - root - WARNING - ../image/openflood/yellow.png is not found
+2020-03-13 13:44:11,303 - __main__ - INFO - with ContextContext
+2020-03-13 13:44:11,303 - __main__ - INFO - context analyze
+2020-03-13 13:44:12,008 - root - WARNING - ../image/openflood/yellow.png is not found
+2020-03-13 13:44:13,500 - root - WARNING - ../image/openflood/blue.png is not found
+2020-03-13 13:44:16,535 - root - WARNING - ../image/openflood/yellow.png is not found
+2020-03-13 13:45:17,546 - __main__ - INFO - with Contextmultiple
+2020-07-31 20:40:44,059 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2020-07-31 20:40:44,084 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2020-07-31 20:40:44,641 - root - WARNING - ../image/appleflinger/rightapple.png is not found
+2020-07-31 20:40:44,641 - root - WARNING - ../image/appleflinger/rightapple.png is not found
+2020-07-31 20:40:44,641 - __main__ - INFO - not with Context
+2020-07-31 20:47:30,483 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2020-07-31 20:47:30,484 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2020-07-31 20:47:31,009 - root - WARNING - ../image/appleflinger/rightapple.png is not found
+2020-07-31 20:47:31,010 - root - WARNING - ../image/appleflinger/rightapple.png is not found
+2020-07-31 20:47:31,010 - __main__ - INFO - not with Context
+2020-08-02 00:49:58,998 - root - WARNING - ../image/archery/arrow2.png is not found
+2020-08-02 00:49:58,999 - root - WARNING - ../image/archery/arrow2.png is not found
+2020-08-02 00:49:59,432 - root - WARNING - ../image/archery/arrow3.png is not found
+2020-08-02 00:49:59,432 - root - WARNING - ../image/archery/arrow3.png is not found
+2020-08-02 00:49:59,432 - __main__ - INFO - not with Context
+2020-08-02 01:20:43,229 - root - WARNING - ../image/archery/arrow2.png is not found
+2020-08-02 01:20:43,230 - root - WARNING - ../image/archery/arrow2.png is not found
+2020-08-02 01:20:43,784 - root - WARNING - ../image/archery/arrow3.png is not found
+2020-08-02 01:20:43,784 - root - WARNING - ../image/archery/arrow3.png is not found
+2020-08-02 01:20:43,784 - __main__ - INFO - not with Context
+2020-08-02 01:22:20,877 - root - WARNING - ../image/archery/arrow2.png is not found
+2020-08-02 01:22:20,877 - root - WARNING - ../image/archery/arrow2.png is not found
+2020-08-02 01:22:21,344 - root - WARNING - ../image/archery/arrow3.png is not found
+2020-08-02 01:22:21,345 - root - WARNING - ../image/archery/arrow3.png is not found
+2020-08-02 01:22:57,345 - root - WARNING - ../image/archery/arrow2.png is not found
+2020-08-02 01:22:57,345 - root - WARNING - ../image/archery/arrow2.png is not found
+2020-08-02 01:22:57,850 - root - WARNING - ../image/archery/arrow3.png is not found
+2020-08-02 01:22:57,850 - root - WARNING - ../image/archery/arrow3.png is not found
+2020-08-02 01:22:57,850 - __main__ - INFO - with ContextTarget
+2021-10-19 19:36:56,214 - __main__ - INFO - with ContextTarget
+2021-10-19 19:38:52,703 - __main__ - INFO - with ContextTarget
+2021-10-19 19:41:45,033 - __main__ - INFO - with ContextTarget
+2021-10-19 19:42:50,191 - __main__ - INFO - with ContextTarget
+2021-10-19 19:43:37,256 - __main__ - INFO - with ContextTarget
+2021-10-19 19:44:57,868 - __main__ - INFO - with ContextTarget
+2021-10-19 21:34:43,515 - __main__ - INFO - with ContextTarget
+2021-11-09 17:46:02,752 - __main__ - INFO - with Contextmultiple
+2021-11-09 17:47:23,659 - __main__ - INFO - with Contextcontext
+2021-11-09 17:47:23,660 - __main__ - INFO - context analyze
+2021-11-09 17:50:37,387 - __main__ - INFO - with Contextcontext
+2021-11-09 17:53:11,972 - __main__ - INFO - with Contextcontext
+2021-11-09 17:55:39,202 - __main__ - INFO - with Contextcontext
+2021-11-09 18:02:36,478 - __main__ - INFO - with Contextcontext
+2021-11-09 18:05:28,808 - __main__ - INFO - with Contextcontext
+2021-11-09 18:14:59,754 - __main__ - INFO - with Contextcontext
+2021-11-09 18:30:46,159 - __main__ - INFO - with Contextcontext
+2021-11-09 18:31:02,380 - __main__ - INFO - with Contextcontext
+2021-11-09 18:31:02,381 - __main__ - INFO - context analyze
+2021-11-09 18:35:07,619 - __main__ - INFO - with Contextcontext
+2021-11-09 18:37:36,297 - __main__ - INFO - context analyze
+2021-11-09 18:38:02,908 - __main__ - INFO - with Contextcontext
+2021-11-09 18:38:12,977 - __main__ - INFO - context analyze
+2021-11-09 18:46:49,550 - __main__ - INFO - with Contextcontext
+2021-11-09 18:46:50,148 - __main__ - INFO - context analyze
+2021-11-09 18:51:06,785 - __main__ - INFO - with Contextcontext
+2021-11-09 18:51:06,785 - __main__ - INFO - context analyze
+2021-11-09 18:53:55,471 - __main__ - INFO - with Contextcontext
+2021-11-09 18:53:55,471 - __main__ - INFO - context analyze
+2021-11-09 18:53:57,397 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 18:53:57,780 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 18:55:06,558 - __main__ - INFO - with Contextcontext
+2021-11-09 18:55:06,558 - __main__ - INFO - context analyze
+2021-11-09 18:55:08,516 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 18:55:08,875 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 18:55:38,341 - __main__ - INFO - with Contextcontext
+2021-11-09 18:55:38,341 - __main__ - INFO - context analyze
+2021-11-09 18:55:40,254 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 18:55:40,614 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 18:56:55,885 - __main__ - INFO - with Contextcontext
+2021-11-09 18:56:55,886 - __main__ - INFO - context analyze
+2021-11-09 18:56:57,810 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 18:56:58,175 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 18:57:15,789 - __main__ - INFO - with Contextcontext
+2021-11-09 18:57:15,789 - __main__ - INFO - context analyze
+2021-11-09 18:57:17,728 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 18:57:18,096 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 18:58:25,586 - __main__ - INFO - with Contextcontext
+2021-11-09 18:58:25,586 - __main__ - INFO - context analyze
+2021-11-09 18:58:27,487 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 18:58:27,867 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 18:58:29,794 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 18:58:30,154 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 18:58:32,079 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 18:58:32,437 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 18:58:34,387 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 18:58:34,747 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 18:58:36,662 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 18:58:37,021 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 18:58:41,209 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 18:58:41,567 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 18:58:43,498 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 18:58:43,857 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 18:58:45,778 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 18:58:46,137 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:43:44,923 - __main__ - INFO - with ContextContext
+2021-11-09 19:43:44,923 - __main__ - INFO - context analyze
+2021-11-09 19:43:47,214 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:43:47,642 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:43:49,951 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:43:50,394 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:43:52,622 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:43:53,036 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:43:55,325 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:43:55,744 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:43:57,949 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:43:58,362 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:44:03,293 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:44:03,714 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:44:06,028 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:44:06,452 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:44:08,680 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:44:09,091 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:52:01,844 - __main__ - INFO - with ContextContext
+2021-11-09 19:52:01,844 - __main__ - INFO - context analyze
+2021-11-09 19:52:04,121 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:52:06,832 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:52:07,250 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:52:09,510 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:52:09,930 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:52:12,244 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:52:12,669 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:52:14,948 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:52:15,441 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:52:17,680 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:52:20,412 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:52:20,864 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:52:23,108 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:52:25,833 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:52:26,259 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:54:02,387 - __main__ - INFO - with ContextContext
+2021-11-09 19:54:02,387 - __main__ - INFO - context analyze
+2021-11-09 19:54:04,519 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:54:07,076 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:54:07,475 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:54:09,621 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:54:10,019 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:54:12,174 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:54:12,570 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:54:14,700 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:54:15,099 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:54:17,290 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:54:19,837 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:54:20,258 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:54:22,408 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:55:09,913 - __main__ - INFO - with ContextContext
+2021-11-09 19:55:09,913 - __main__ - INFO - context analyze
+2021-11-09 19:55:12,082 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:55:14,590 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:55:14,988 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:55:17,135 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:55:17,529 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:55:19,716 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:55:20,123 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:55:22,318 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:55:22,714 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:55:24,865 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:55:27,490 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 19:55:27,889 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 19:55:30,005 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:42:58,802 - __main__ - INFO - with ContextContext
+2021-11-09 22:42:58,802 - __main__ - INFO - context analyze
+2021-11-09 22:43:01,094 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:01,513 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:03,807 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:04,238 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:06,471 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:06,894 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:09,233 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:09,649 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:11,873 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:12,299 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:14,687 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:15,101 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:17,333 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:17,758 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:20,038 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:20,457 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:22,695 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:23,134 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:25,393 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:25,820 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:28,087 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:28,555 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:30,805 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:31,223 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:33,517 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:33,964 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:36,220 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:36,650 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:39,013 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:39,435 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:41,696 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:42,123 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-09 22:43:44,409 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-09 22:43:44,831 - root - WARNING - ../image/candycrush/orange.png is not found
+2021-11-10 00:20:42,824 - __main__ - INFO - with ContextContext
+2021-11-10 00:20:42,824 - __main__ - INFO - context analyze
+2021-11-10 00:20:45,064 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:20:50,396 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:20:53,041 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:20:55,660 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:20:58,387 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:21:01,044 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:21:03,725 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:21:06,370 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:21:09,080 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:21:19,726 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:21:27,764 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:21:30,437 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:21:33,132 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:23:04,637 - __main__ - INFO - with ContextContext
+2021-11-10 00:23:04,638 - __main__ - INFO - context analyze
+2021-11-10 00:23:06,801 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:23:12,055 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:23:14,774 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:23:17,430 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:23:20,115 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:23:22,793 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:23:25,415 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:23:28,091 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:23:30,717 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:23:41,268 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:23:49,209 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:23:51,825 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:25:42,298 - __main__ - INFO - with ContextContext
+2021-11-10 00:25:42,298 - __main__ - INFO - context analyze
+2021-11-10 00:25:44,563 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:25:49,843 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:25:52,516 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:25:55,201 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:25:57,909 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:00,557 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:03,261 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:05,933 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:08,597 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:19,124 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:27,103 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:29,819 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:35,148 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:40,440 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:43,124 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:45,742 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:48,473 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:51,141 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:53,869 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:56,467 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:26:59,192 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:27:01,875 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:27:04,558 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:27:09,906 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:27:12,575 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:27:15,230 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:30:39,958 - __main__ - INFO - with ContextContext
+2021-11-10 00:30:39,958 - __main__ - INFO - context analyze
+2021-11-10 00:30:42,169 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:30:47,463 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:30:50,135 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:30:52,772 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:30:55,449 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:30:58,144 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:00,783 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:03,483 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:06,138 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:16,764 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:24,823 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:27,477 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:32,823 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:38,168 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:40,824 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:43,575 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:46,218 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:48,934 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:51,591 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:54,274 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:56,941 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:31:59,686 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:32:02,310 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:32:07,680 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:32:10,369 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:32:13,076 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:32:15,688 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:50:52,868 - __main__ - INFO - with ContextContext
+2021-11-10 00:50:52,868 - __main__ - INFO - context analyze
+2021-11-10 00:50:55,140 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:00,444 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:05,722 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:10,952 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:24,186 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:26,826 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:29,541 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:32,189 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:34,878 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:37,488 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:40,212 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:42,841 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:48,207 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:50,892 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:53,539 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:51:58,883 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:52:12,231 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:52:14,917 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 00:52:22,876 - root - WARNING - ../image/candycrush/purple.png is not found
+2021-11-10 09:06:00,440 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2021-11-10 09:06:00,440 - root - WARNING - ../image/appleflinger/leftapple.png is not found
+2021-11-10 09:06:00,959 - __main__ - INFO - not with Context

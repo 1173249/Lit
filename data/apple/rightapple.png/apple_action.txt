@@ -1,0 +1,32 @@
+{
+    "actions": [
+        {
+            "duration": 3.1333080008625984,
+            "endX": 2497,
+            "endY": 972,
+            "startX": 2116,
+            "startY": 835,
+            "timestamp": "1636552995.4780078",
+            "type": "swipe"
+        },
+        {
+            "duration": 2.9376079998910427,
+            "endX": 2352,
+            "endY": 892,
+            "startX": 2104,
+            "startY": 839,
+            "timestamp": "1636552964.201986",
+            "type": "swipe"
+        },
+        {
+            "duration": 1.2198210004717112,
+            "endX": 2558,
+            "endY": 892,
+            "startX": 2097,
+            "startY": 839,
+            "timestamp": "1636552932.9192817",
+            "type": "swipe"
+        }
+    ],
+    "sequence": []
+}

@@ -1,0 +1,88 @@
+{
+    "actions": [
+        {
+            "duration": 4.306951000005938, 
+            "endX": 0, 
+            "endY": 836, 
+            "startX": 540, 
+            "startY": 616, 
+            "timestamp": "1583440628.67", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.08513299998594448, 
+            "startX": 803, 
+            "startY": 976, 
+            "timestamp": "1583440628.67", 
+            "type": "tap"
+        }, 
+        {
+            "duration": 2.380753999983426, 
+            "endX": 0, 
+            "endY": 915, 
+            "startX": 689, 
+            "startY": 724, 
+            "timestamp": "1583440468.62", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.07667099998798221, 
+            "startX": 850, 
+            "startY": 1064, 
+            "timestamp": "1583440468.62", 
+            "type": "tap"
+        }, 
+        {
+            "duration": 2.665251000027638, 
+            "endX": 0, 
+            "endY": 880, 
+            "startX": 634, 
+            "startY": 749, 
+            "timestamp": "1583440591.64", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.11998999997740611, 
+            "startX": 963, 
+            "startY": 1002, 
+            "timestamp": "1583440591.64", 
+            "type": "tap"
+        }, 
+        {
+            "duration": 1.994345000013709, 
+            "endX": 0, 
+            "endY": 911, 
+            "startX": 554, 
+            "startY": 742, 
+            "timestamp": "1583440383.54", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.041662000003270805, 
+            "startX": 833, 
+            "startY": 1183, 
+            "timestamp": "1583440383.54", 
+            "type": "tap"
+        }, 
+        {
+            "duration": 1.9851289999787696, 
+            "endX": 0, 
+            "endY": 904, 
+            "startX": 538, 
+            "startY": 764, 
+            "timestamp": "1583440493.76", 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.07667999999830499, 
+            "startX": 1130, 
+            "startY": 1128, 
+            "timestamp": "1583440493.76", 
+            "type": "tap"
+        }
+    ], 
+    "sequence": [
+        "swipe", 
+        "tap"
+    ]
+}

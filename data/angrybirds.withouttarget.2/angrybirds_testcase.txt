@@ -1,0 +1,4409 @@
+{
+    "case": [
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 654, 
+            "startY": 757, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 549, 
+            "startY": 805, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.206081081081081, 
+                660.7094594594594
+            ], 
+            "sinx": 0.41659392694479075, 
+            "startX": 753, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 566.5836213658139, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 499, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 239.58505796480713, 
+            "duration": 1.526015000010375, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 753, 
+            "startY": 453, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 566.4988967332594, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 627, 
+            "startY": 707, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 6.121030999987852, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.3736557198940731, 
+            "startX": 654, 
+            "startY": 805, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 566.4988967332594, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 581, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 610, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 2.8320410000014817, 
+            "parameters": [
+                "first", 
+                -0.19604316546762593, 
+                816.0
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 596, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 513.264064590538, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 654, 
+            "startY": 461, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.4582524271844661, 
+                1092.3242718446604
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 654, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 654, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 528, 
+            "startY": 805, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 2.606028000009246, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 753, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 1.526015000010375, 
+            "parameters": [
+                "first", 
+                -0.19604316546762593, 
+                816.0
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 596, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 589, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 753, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 584.1035867035914, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 596, 
+            "startY": 757, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 6.121030999987852, 
+            "parameters": [
+                "first", 
+                -0.1726315789473685, 
+                547.1431578947369
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 549, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 654, 
+            "startY": 535, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 2.687785000016447, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 596, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.2177589852008457, 
+                871.9767441860465
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 499, 
+            "startY": 464, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 1.526015000010375, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.2903911642021606, 
+            "startX": 753, 
+            "startY": 458, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 584.1035867035914, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.17011532865995072, 
+            "startX": 596, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.41659392694479075, 
+            "startX": 589, 
+            "startY": 464, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 604.4402369134602, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 496, 
+            "startY": 743, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 499, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.206081081081081, 
+                660.7094594594594
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 654, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 604.4402369134602, 
+            "duration": 2.8320410000014817, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 753, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 2.8320410000014817, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 654, 
+            "startY": 464, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 654, 
+            "startY": 805, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.3547800548249788, 
+            "startX": 627, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 239.58505796480713, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 496, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 604.4402369134602, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 499, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 2.606028000009246, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.20183964029758522, 
+            "startX": 528, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 654, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 753, 
+            "startY": 684, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 566.5836213658139, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 549, 
+            "startY": 743, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 566.5836213658139, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.2177589852008457, 
+                871.9767441860465
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 528, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 224, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 239.58505796480713, 
+            "duration": 0.5821250000008149, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.20183964029758522, 
+            "startX": 499, 
+            "startY": 814, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 566.5836213658139, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.2903911642021606, 
+            "startX": 596, 
+            "startY": 684, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.2571775604538074, 
+            "startX": 654, 
+            "startY": 684, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.26612903225806456, 
+                596.0
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 753, 
+            "startY": 707, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 6.121030999987852, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.2903911642021606, 
+            "startX": 528, 
+            "startY": 707, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 566.5836213658139, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.2571775604538074, 
+            "startX": 224, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 239.58505796480713, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.4582524271844661, 
+                1092.3242718446604
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 499, 
+            "startY": 535, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 753, 
+            "startY": 535, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.26612903225806456, 
+                596.0
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 627, 
+            "startY": 461, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 4.831347999977879, 
+            "parameters": [
+                "first", 
+                -0.32194244604316524, 
+                932.6241007194244
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 753, 
+            "startY": 757, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 753, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.37946428571428586, 
+                538.0
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 753, 
+            "startY": 458, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 2.687785000016447, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.2903911642021606, 
+            "startX": 654, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.40283400809716585, 
+                659.0141700404857
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 654, 
+            "startY": 458, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 532.5758161989709, 
+            "duration": 0.5821250000008149, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 627, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.1726315789473685, 
+                547.1431578947369
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 549, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 566.5836213658139, 
+            "duration": 6.121030999987852, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 596, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 496, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 1.526015000010375, 
+            "parameters": [
+                "first", 
+                -0.26612903225806456, 
+                596.0
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 496, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 1.526015000010375, 
+            "parameters": [
+                "first", 
+                -0.30346820809248554, 
+                990.3150289017341
+            ], 
+            "sinx": 0.17011532865995072, 
+            "startX": 528, 
+            "startY": 453, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 513.264064590538, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 596, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.2177589852008457, 
+                871.9767441860465
+            ], 
+            "sinx": 0.2903911642021606, 
+            "startX": 596, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 532.5758161989709, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 549, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.19604316546762593, 
+                816.0
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 224, 
+            "startY": 757, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 6.121030999987852, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 596, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.2177589852008457, 
+                871.9767441860465
+            ], 
+            "sinx": 0.41659392694479075, 
+            "startX": 556, 
+            "startY": 684, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 2.606028000009246, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.2571775604538074, 
+            "startX": 596, 
+            "startY": 535, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.3547800548249788, 
+            "startX": 654, 
+            "startY": 757, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 361.58124951385406, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.2571775604538074, 
+            "startX": 654, 
+            "startY": 707, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 584.1035867035914, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.32194244604316524, 
+                932.6241007194244
+            ], 
+            "sinx": 0.3736557198940731, 
+            "startX": 627, 
+            "startY": 757, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 654, 
+            "startY": 461, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 581, 
+            "startY": 453, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 596, 
+            "startY": 743, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 627, 
+            "startY": 458, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.4582524271844661, 
+                1092.3242718446604
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 610, 
+            "startY": 458, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.687785000016447, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.21277268067147778, 
+            "startX": 610, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.26612903225806456, 
+                596.0
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 654, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 224, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.1726315789473685, 
+                547.1431578947369
+            ], 
+            "sinx": 0.41659392694479075, 
+            "startX": 654, 
+            "startY": 805, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.19604316546762593, 
+                816.0
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 528, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 239.58505796480713, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 753, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.21277268067147778, 
+            "startX": 753, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.32194244604316524, 
+                932.6241007194244
+            ], 
+            "sinx": 0.21277268067147778, 
+            "startX": 753, 
+            "startY": 707, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.37946428571428586, 
+                538.0
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 224, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 4.831347999977879, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 753, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 224, 
+            "startY": 684, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.41659392694479075, 
+            "startX": 596, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 566.5836213658139, 
+            "duration": 6.121030999987852, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 596, 
+            "startY": 814, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 566.5836213658139, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 753, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.21277268067147778, 
+            "startX": 610, 
+            "startY": 684, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.2903911642021606, 
+            "startX": 654, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 584.1035867035914, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 654, 
+            "startY": 684, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 604.4402369134602, 
+            "duration": 4.831347999977879, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.20183964029758522, 
+            "startX": 753, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 753, 
+            "startY": 684, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 1.4106400000000576, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 549, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 0.5821250000008149, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.3736557198940731, 
+            "startX": 654, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 513.264064590538, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.30346820809248554, 
+                990.3150289017341
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 654, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 499, 
+            "startY": 814, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 2.8320410000014817, 
+            "parameters": [
+                "first", 
+                -0.26612903225806456, 
+                596.0
+            ], 
+            "sinx": 0.21277268067147778, 
+            "startX": 528, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 361.58124951385406, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.2177589852008457, 
+                871.9767441860465
+            ], 
+            "sinx": 0.41659392694479075, 
+            "startX": 654, 
+            "startY": 464, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 239.58505796480713, 
+            "duration": 2.2554739999977755, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 654, 
+            "startY": 535, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 528, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.3736557198940731, 
+            "startX": 589, 
+            "startY": 535, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 753, 
+            "startY": 535, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 596, 
+            "startY": 814, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 513.264064590538, 
+            "duration": 6.121030999987852, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.3547800548249788, 
+            "startX": 596, 
+            "startY": 684, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 589, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.206081081081081, 
+                660.7094594594594
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 654, 
+            "startY": 757, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 239.58505796480713, 
+            "duration": 2.687785000016447, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.1923811347339042, 
+            "startX": 528, 
+            "startY": 458, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 2.606028000009246, 
+            "parameters": [
+                "first", 
+                -0.19604316546762593, 
+                816.0
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 627, 
+            "startY": 707, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 361.58124951385406, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.3736557198940731, 
+            "startX": 654, 
+            "startY": 707, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 482.02593291232785, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.19604316546762593, 
+                816.0
+            ], 
+            "sinx": 0.20183964029758522, 
+            "startX": 654, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.2571775604538074, 
+            "startX": 753, 
+            "startY": 464, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 532.5758161989709, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 654, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.3547800548249788, 
+            "startX": 224, 
+            "startY": 684, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 361.58124951385406, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 654, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 499, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.41659392694479075, 
+            "startX": 654, 
+            "startY": 464, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 361.58124951385406, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.17011532865995072, 
+            "startX": 556, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.19604316546762593, 
+                816.0
+            ], 
+            "sinx": 0.2903911642021606, 
+            "startX": 224, 
+            "startY": 453, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.2177589852008457, 
+                871.9767441860465
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 549, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.21277268067147778, 
+            "startX": 496, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 513.264064590538, 
+            "duration": 1.526015000010375, 
+            "parameters": [
+                "first", 
+                -0.37946428571428586, 
+                538.0
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 654, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 596, 
+            "startY": 461, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 596, 
+            "startY": 707, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 2.606028000009246, 
+            "parameters": [
+                "first", 
+                -0.1726315789473685, 
+                547.1431578947369
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 654, 
+            "startY": 535, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 482.02593291232785, 
+            "duration": 1.526015000010375, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 596, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.30346820809248554, 
+                990.3150289017341
+            ], 
+            "sinx": 0.1923811347339042, 
+            "startX": 499, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 654, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 584.1035867035914, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.1923811347339042, 
+            "startX": 627, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.32122370936902483, 
+                860.3518164435947
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 654, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 566.5836213658139, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 596, 
+            "startY": 743, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 4.831347999977879, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 654, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 0.5821250000008149, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.3547800548249788, 
+            "startX": 499, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.3064524924597581, 
+            "startX": 753, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 361.58124951385406, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 753, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 566.4988967332594, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.30346820809248554, 
+                990.3150289017341
+            ], 
+            "sinx": 0.21277268067147778, 
+            "startX": 499, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 1.526015000010375, 
+            "parameters": [
+                "first", 
+                -0.4582524271844661, 
+                1092.3242718446604
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 596, 
+            "startY": 743, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 581, 
+            "startY": 464, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.606028000009246, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 499, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 532.5758161989709, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.1923811347339042, 
+            "startX": 589, 
+            "startY": 684, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 532.5758161989709, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.37946428571428586, 
+                538.0
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 549, 
+            "startY": 743, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.3547800548249788, 
+            "startX": 556, 
+            "startY": 814, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.26612903225806456, 
+                596.0
+            ], 
+            "sinx": 0.41659392694479075, 
+            "startX": 753, 
+            "startY": 464, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 0.5821250000008149, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 654, 
+            "startY": 535, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.1726315789473685, 
+                547.1431578947369
+            ], 
+            "sinx": 0.17011532865995072, 
+            "startX": 589, 
+            "startY": 757, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 604.4402369134602, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 610, 
+            "startY": 684, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.41659392694479075, 
+            "startX": 499, 
+            "startY": 458, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 361.58124951385406, 
+            "duration": 2.606028000009246, 
+            "parameters": [
+                "first", 
+                -0.37946428571428586, 
+                538.0
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 654, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 361.58124951385406, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 549, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 627, 
+            "startY": 805, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 654, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 482.02593291232785, 
+            "duration": 2.8320410000014817, 
+            "parameters": [
+                "first", 
+                -0.30346820809248554, 
+                990.3150289017341
+            ], 
+            "sinx": 0.1923811347339042, 
+            "startX": 654, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 1.526015000010375, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 753, 
+            "startY": 684, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.3064524924597581, 
+            "startX": 496, 
+            "startY": 461, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 753, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 513.264064590538, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.37946428571428586, 
+                538.0
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 654, 
+            "startY": 453, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 4.831347999977879, 
+            "parameters": [
+                "first", 
+                -0.1726315789473685, 
+                547.1431578947369
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 627, 
+            "startY": 458, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 4.831347999977879, 
+            "parameters": [
+                "first", 
+                -0.26612903225806456, 
+                596.0
+            ], 
+            "sinx": 0.2571775604538074, 
+            "startX": 596, 
+            "startY": 805, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 528, 
+            "startY": 535, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.26612903225806456, 
+                596.0
+            ], 
+            "sinx": 0.3058323934071375, 
+            "startX": 596, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.2177589852008457, 
+                871.9767441860465
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 627, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.40283400809716585, 
+                659.0141700404857
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 528, 
+            "startY": 458, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.21277268067147778, 
+            "startX": 528, 
+            "startY": 757, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.21277268067147778, 
+            "startX": 654, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 604.4402369134602, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.2177589852008457, 
+                871.9767441860465
+            ], 
+            "sinx": 0.21277268067147778, 
+            "startX": 596, 
+            "startY": 464, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 6.121030999987852, 
+            "parameters": [
+                "first", 
+                -0.4582524271844661, 
+                1092.3242718446604
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 496, 
+            "startY": 805, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.40283400809716585, 
+                659.0141700404857
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 654, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.3524860000034096, 
+            "parameters": [
+                "first", 
+                -0.2177589852008457, 
+                871.9767441860465
+            ], 
+            "sinx": 0.20183964029758522, 
+            "startX": 499, 
+            "startY": 707, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.3547800548249788, 
+            "startX": 753, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 2.8320410000014817, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.21277268067147778, 
+            "startX": 556, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 549.3204893320474, 
+            "duration": 1.526015000010375, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.2903911642021606, 
+            "startX": 596, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 513.264064590538, 
+            "duration": 2.2554739999977755, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.3736557198940731, 
+            "startX": 549, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 0.5821250000008149, 
+            "parameters": [
+                "first", 
+                -0.2177589852008457, 
+                871.9767441860465
+            ], 
+            "sinx": 0.3547800548249788, 
+            "startX": 499, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.30346820809248554, 
+                990.3150289017341
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 499, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.606028000009246, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 549, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 2.687785000016447, 
+            "parameters": [
+                "first", 
+                -0.32194244604316524, 
+                932.6241007194244
+            ], 
+            "sinx": 0.3736557198940731, 
+            "startX": 596, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 566.4988967332594, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 499, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 4.831347999977879, 
+            "parameters": [
+                "first", 
+                -0.26612903225806456, 
+                596.0
+            ], 
+            "sinx": 0.41659392694479075, 
+            "startX": 224, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 1.8809260000052745, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.1923811347339042, 
+            "startX": 528, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 0.5821250000008149, 
+            "parameters": [
+                "first", 
+                -0.206081081081081, 
+                660.7094594594594
+            ], 
+            "sinx": 0.1923811347339042, 
+            "startX": 753, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.050561000000016065, 
+            "startX": 989, 
+            "startY": 1006, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 1019, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 566.5836213658139, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.42032332563510405, 
+                1087.5034642032333
+            ], 
+            "sinx": 0.20183964029758522, 
+            "startX": 499, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 3.222109000002092, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 753, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 2.2554739999977755, 
+            "parameters": [
+                "first", 
+                -0.206081081081081, 
+                660.7094594594594
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 654, 
+            "startY": 461, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.2177589852008457, 
+                871.9767441860465
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 753, 
+            "startY": 757, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 2.2554739999977755, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.1923811347339042, 
+            "startX": 753, 
+            "startY": 461, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 499, 
+            "startY": 461, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 584.1035867035914, 
+            "duration": 4.831347999977879, 
+            "parameters": [
+                "first", 
+                -0.37946428571428586, 
+                538.0
+            ], 
+            "sinx": 0.21277268067147778, 
+            "startX": 596, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 513.264064590538, 
+            "duration": 2.2554739999977755, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.20183964029758522, 
+            "startX": 610, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 532.5758161989709, 
+            "duration": 1.526015000010375, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.1923811347339042, 
+            "startX": 654, 
+            "startY": 464, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 361.58124951385406, 
+            "duration": 1.8354229999968084, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.20183964029758522, 
+            "startX": 596, 
+            "startY": 771, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 0.5821250000008149, 
+            "parameters": [
+                "first", 
+                -0.206081081081081, 
+                660.7094594594594
+            ], 
+            "sinx": 0.20183964029758522, 
+            "startX": 753, 
+            "startY": 464, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 6.121030999987852, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.41659392694479075, 
+            "startX": 753, 
+            "startY": 464, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 484.08470333196857, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.2177589852008457, 
+                871.9767441860465
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 528, 
+            "startY": 464, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 469.69458161660754, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.1887125220458553, 
+                836.4179894179895
+            ], 
+            "sinx": 0.21277268067147778, 
+            "startX": 753, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 1.526015000010375, 
+            "parameters": [
+                "first", 
+                -0.37946428571428586, 
+                538.0
+            ], 
+            "sinx": 0.18543943461874365, 
+            "startX": 596, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "distance": 577.0077989074324, 
+            "duration": 4.831347999977879, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.3874858410620524, 
+            "startX": 224, 
+            "startY": 713, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 532.5758161989709, 
+            "duration": 2.8320410000014817, 
+            "parameters": [
+                "first", 
+                -0.40283400809716585, 
+                659.0141700404857
+            ], 
+            "sinx": 0.36421122396272737, 
+            "startX": 596, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }, 
+        {
+            "distance": 601.2994262428662, 
+            "duration": 2.2242560000013327, 
+            "parameters": [
+                "first", 
+                -0.3910714285714285, 
+                928.0785714285714
+            ], 
+            "sinx": 0.1923811347339042, 
+            "startX": 654, 
+            "startY": 695, 
+            "type": "swipe"
+        }, 
+        {
+            "duration": 0.0509089999995922, 
+            "startX": 989, 
+            "startY": 993, 
+            "type": "tap"
+        }
+    ], 
+    "sequence": [
+        "swipe", 
+        "tap"
+    ],
+    "isWithContext":"None"
+}
