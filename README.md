@@ -28,11 +28,11 @@ Simply clone the source code from this repository and apply the follwing envirom
 
 
 ## USAGE
-# conf 
+### conf 
 edit the config.ini, specify SDK PATH, device name AND mobile games you want to test.
 there are already 9 games built in tools as seen in the config file.
 
-# image
+### image
 upload function icon , play icon and target icons if needed into the image folder.
 
 There are two ways to run the tool
