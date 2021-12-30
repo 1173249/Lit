@@ -15,8 +15,8 @@ Simply clone the source code from this repository and apply the follwing envirom
 
 
 ## Enviroment Configration
-* PYTHON > 3.6.9
-* ANDROID SDK
+* PYTHON >= 3.6.9
+* ANDROID SDK >= 6.0
 * Ubuntu 
 * EMULATOR OR DEVICES
 * ADB
@@ -29,22 +29,20 @@ Simply clone the source code from this repository and apply the follwing envirom
 
 ## USAGE
 * conf 
-edit the config.ini, specify SDK PATH, device name AND testing object you want to test.
+edit the config.ini, specify SDK PATH, device name AND mobile games you want to test.
 there are already 9 games built in tools as seen in the config file.
 
-
-
 * image
-upload function icon , play icon and target icons if need into the image folder
-* bin
-
+upload function icon , play icon and target icons if needed into the image folder
+There are two ways to run the tool
+* 1. step by step
 python recorder.py : following the instruction to play the game as a real user, kill the script if you think the training is long enough
 python analyzer.py
 python module_gen.py
 python testcase_gen.py
 python play.py
 
-* script
+* 2.tooltest script
 bash -x tooltest.sh run the test automatically
 
 ## OUTPUT 
