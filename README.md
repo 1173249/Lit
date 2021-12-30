@@ -51,7 +51,7 @@ bash -x tooltest.sh run the test automatically
 * crash -- Crash reports
 
 ## Experiment
-The experiments are conducted at Emulator and Google Pixel XL 
+The experiments were conducted at Emulator for open-source games and Google Pixel XL for close-source games.
 ![image](https://user-images.githubusercontent.com/92325589/147787729-d671026d-838f-43d5-bb7a-f24f598af485.png)
 
 
