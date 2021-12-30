@@ -6,28 +6,8 @@ This is a research prototype of  the LIT approach for automatic game testing.
 ## Structure
 ![structure](https://user-images.githubusercontent.com/92325589/147783626-74d2467d-99ee-4583-affd-e74e9c5615fc.png)
 
-• BIN
-	• RECORDER.PY   : record the user traces 
-	• ANALYZER.PY    : analyze the user traces, action type recognition
-	• MODUEL_GEN.PY : get a module inferring from the user actions and context, infer rules
-	• TESTCASE_GEN.PY :  load the testing module to generate test cases
-	• TEST.PY
-• CONF
-	• CONFIG.INI : configuration for the system and games
-• LIBS
-	• ADBLIBS : all functions related with adb tool 
-	• SCREENLIBS : all functions related with screen image. Like matching image, getting image resolution and so on
-• DATA
-	• TRACES : generated playing traces by recorder.py 
-	• ACTIONS:
-	• MODULES:
-	
-• LOG
-• IMAGE
-	• FUNCTION IMAGE 
-PLAY IMAGE![image](https://user-images.githubusercontent.com/92325589/147786479-dd0ccc65-6194-4aef-ba2f-84c6f617354b.png)
+![image](https://user-images.githubusercontent.com/92325589/147786479-dd0ccc65-6194-4aef-ba2f-84c6f617354b.png)
 
-![image](https://user-images.githubusercontent.com/92325589/147786246-a6ef6c8e-1b41-431f-b1e6-14805ab13e67.png)
 
 
 ## Installation
