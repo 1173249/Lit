@@ -25,8 +25,7 @@ Simply clone the source code from this repository and apply the follwing envirom
 * Numpy
 * Scipy
 * codecs
-The experiments are conducted at Emulator and Google Pixel XL 
-![image](https://user-images.githubusercontent.com/92325589/147787729-d671026d-838f-43d5-bb7a-f24f598af485.png)
+
 
 ## USAGE
 * conf 
@@ -51,6 +50,10 @@ bash -x tooltest.sh run the test automatically
 ## OUTPUT 
 * coverage - coverage files are stored here
 * crash -- Crash reports
+
+## Experiment
+The experiments are conducted at Emulator and Google Pixel XL 
+![image](https://user-images.githubusercontent.com/92325589/147787729-d671026d-838f-43d5-bb7a-f24f598af485.png)
 
 
 
